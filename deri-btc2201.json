@@ -1,0 +1,5217 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "timestamp": 1641488400000,
+      "prev_index_price": 42942.69,
+      "interest_8h": -0.00015219068678347248,
+      "interest_1h": -0.0001817523516873846,
+      "index_price": 42873.31
+    },
+    {
+      "timestamp": 1641492000000,
+      "prev_index_price": 42873.31,
+      "interest_8h": -0.00013000079794292657,
+      "interest_1h": 0.000034828621330239516,
+      "index_price": 43018.6
+    },
+    {
+      "timestamp": 1641495600000,
+      "prev_index_price": 43018.6,
+      "interest_8h": -0.0001532892228079826,
+      "interest_1h": -0.000021859951690641338,
+      "index_price": 43374.05
+    },
+    {
+      "timestamp": 1641499200000,
+      "prev_index_price": 43374.05,
+      "interest_8h": -0.00014516363599176486,
+      "interest_1h": 0.000011703196834279463,
+      "index_price": 43440.15
+    },
+    {
+      "timestamp": 1641502800000,
+      "prev_index_price": 43440.15,
+      "interest_8h": -0.000346886402768066,
+      "interest_1h": -0.00019645973702507702,
+      "index_price": 43211
+    },
+    {
+      "timestamp": 1641506400000,
+      "prev_index_price": 43211,
+      "interest_8h": -0.0009724759293557456,
+      "interest_1h": -0.0006255233944843066,
+      "index_price": 43119.45
+    },
+    {
+      "timestamp": 1641510000000,
+      "prev_index_price": 43119.45,
+      "interest_8h": -0.001408328812049496,
+      "interest_1h": -0.0004473720629657147,
+      "index_price": 43179.83
+    },
+    {
+      "timestamp": 1641513600000,
+      "prev_index_price": 43179.83,
+      "interest_8h": -0.0014325055057038895,
+      "interest_1h": -0.000014092190733332006,
+      "index_price": 43099.74
+    },
+    {
+      "timestamp": 1641517200000,
+      "prev_index_price": 43099.74,
+      "interest_8h": -0.0010557634890195182,
+      "interest_1h": 0.0001939866978234434,
+      "index_price": 42770.04
+    },
+    {
+      "timestamp": 1641520800000,
+      "prev_index_price": 42770.04,
+      "interest_8h": -0.0010672475204205514,
+      "interest_1h": 0.000026884173478856093,
+      "index_price": 43001.95
+    },
+    {
+      "timestamp": 1641524400000,
+      "prev_index_price": 43001.95,
+      "interest_8h": -0.0011022294352490373,
+      "interest_1h": -0.00004779060080499672,
+      "index_price": 42781.15
+    },
+    {
+      "timestamp": 1641528000000,
+      "prev_index_price": 42781.15,
+      "interest_8h": -0.0014678331791473666,
+      "interest_1h": -0.000346855949396944,
+      "index_price": 41796.66
+    },
+    {
+      "timestamp": 1641531600000,
+      "prev_index_price": 41796.66,
+      "interest_8h": -0.0019146370632754644,
+      "interest_1h": -0.0006286999249693441,
+      "index_price": 41683.66
+    },
+    {
+      "timestamp": 1641535200000,
+      "prev_index_price": 41683.66,
+      "interest_8h": -0.001467361964963087,
+      "interest_1h": -0.00017495325756369438,
+      "index_price": 41834.31
+    },
+    {
+      "timestamp": 1641538800000,
+      "prev_index_price": 41834.31,
+      "interest_8h": -0.0013437689645571977,
+      "interest_1h": -0.0003123060520227572,
+      "index_price": 41504.47
+    },
+    {
+      "timestamp": 1641542400000,
+      "prev_index_price": 41504.47,
+      "interest_8h": -0.0019764409634732013,
+      "interest_1h": -0.000625192528029153,
+      "index_price": 41684.33
+    },
+    {
+      "timestamp": 1641546000000,
+      "prev_index_price": 41684.33,
+      "interest_8h": -0.002785568818496581,
+      "interest_1h": -0.000615657812530687,
+      "index_price": 42070.41
+    },
+    {
+      "timestamp": 1641549600000,
+      "prev_index_price": 42070.41,
+      "interest_8h": -0.0034429529042789907,
+      "interest_1h": -0.0006019220775561317,
+      "index_price": 42410.46
+    },
+    {
+      "timestamp": 1641553200000,
+      "prev_index_price": 42410.46,
+      "interest_8h": -0.0040091270714385915,
+      "interest_1h": -0.0006259268074966099,
+      "index_price": 42177.81
+    },
+    {
+      "timestamp": 1641556800000,
+      "prev_index_price": 42177.81,
+      "interest_8h": -0.0038739403214997615,
+      "interest_1h": -0.00029864503184367163,
+      "index_price": 42244.59
+    },
+    {
+      "timestamp": 1641560400000,
+      "prev_index_price": 42244.59,
+      "interest_8h": -0.0032279194981892742,
+      "interest_1h": 0.000008662196936035006,
+      "index_price": 42388.75
+    },
+    {
+      "timestamp": 1641564000000,
+      "prev_index_price": 42388.75,
+      "interest_8h": -0.0030393295738023796,
+      "interest_1h": 0.000024997435127220288,
+      "index_price": 41471.2
+    },
+    {
+      "timestamp": 1641567600000,
+      "prev_index_price": 41471.2,
+      "interest_8h": -0.002703520797644869,
+      "interest_1h": 0.0000020000732367950933,
+      "index_price": 41898.09
+    },
+    {
+      "timestamp": 1641571200000,
+      "prev_index_price": 41898.09,
+      "interest_8h": -0.0020879389529224347,
+      "interest_1h": -6.650872477622803e-7,
+      "index_price": 41328.83
+    },
+    {
+      "timestamp": 1641574800000,
+      "prev_index_price": 41328.83,
+      "interest_8h": -0.0014897509493867838,
+      "interest_1h": -0.0000037659759753147738,
+      "index_price": 42157.28
+    },
+    {
+      "timestamp": 1641578400000,
+      "prev_index_price": 42157.28,
+      "interest_8h": -0.00089004601315265,
+      "interest_1h": 0.00000492946688026264,
+      "index_price": 41993.3
+    },
+    {
+      "timestamp": 1641582000000,
+      "prev_index_price": 41993.3,
+      "interest_8h": -0.0002476044750648998,
+      "interest_1h": 0.000014999951738406404,
+      "index_price": 41697.52
+    },
+    {
+      "timestamp": 1641585600000,
+      "prev_index_price": 41697.52,
+      "interest_8h": 0.00005157383660737942,
+      "interest_1h": 4.466079871017869e-7,
+      "index_price": 41764.57
+    },
+    {
+      "timestamp": 1641589200000,
+      "prev_index_price": 41764.57,
+      "interest_8h": 0.00004321524112431436,
+      "interest_1h": 1.5485086298329597e-7,
+      "index_price": 41914.06
+    },
+    {
+      "timestamp": 1641592800000,
+      "prev_index_price": 41914.06,
+      "interest_8h": 0.0000192483483037051,
+      "interest_1h": 0.0000014401022595459826,
+      "index_price": 41886.35
+    },
+    {
+      "timestamp": 1641596400000,
+      "prev_index_price": 41886.35,
+      "interest_8h": 0.00004375730955023277,
+      "interest_1h": 0.000026324108603993356,
+      "index_price": 41536.39
+    },
+    {
+      "timestamp": 1641600000000,
+      "prev_index_price": 41536.39,
+      "interest_8h": 0.000049209252827054075,
+      "interest_1h": 0.0000054174847403444395,
+      "index_price": 41550.89
+    },
+    {
+      "timestamp": 1641603600000,
+      "prev_index_price": 41550.89,
+      "interest_8h": 0.00005404885069861736,
+      "interest_1h": 1.1547476207169815e-8,
+      "index_price": 41995.8
+    },
+    {
+      "timestamp": 1641607200000,
+      "prev_index_price": 41995.8,
+      "interest_8h": 0.00004905665334000229,
+      "interest_1h": 1.2833779352638586e-7,
+      "index_price": 41889.26
+    },
+    {
+      "timestamp": 1641610800000,
+      "prev_index_price": 41889.26,
+      "interest_8h": 0.00003388566332312998,
+      "interest_1h": 6.915680646082992e-8,
+      "index_price": 41878.69
+    },
+    {
+      "timestamp": 1641614400000,
+      "prev_index_price": 41878.69,
+      "interest_8h": 0.000033618644049646116,
+      "interest_1h": 1.2616219531044722e-7,
+      "index_price": 41807.34
+    },
+    {
+      "timestamp": 1641618000000,
+      "prev_index_price": 41807.34,
+      "interest_8h": 0.00003358357180388489,
+      "interest_1h": 0,
+      "index_price": 41908.84
+    },
+    {
+      "timestamp": 1641621600000,
+      "prev_index_price": 41908.84,
+      "interest_8h": 0.00003208367513834788,
+      "interest_1h": 0,
+      "index_price": 41974.37
+    },
+    {
+      "timestamp": 1641625200000,
+      "prev_index_price": 41974.37,
+      "interest_8h": 0.000007929445146505514,
+      "interest_1h": 0.000002202762518586503,
+      "index_price": 41925.37
+    },
+    {
+      "timestamp": 1641628800000,
+      "prev_index_price": 41925.37,
+      "interest_8h": 0.0000025128373101454927,
+      "interest_1h": 0,
+      "index_price": 41914.5
+    },
+    {
+      "timestamp": 1641632400000,
+      "prev_index_price": 41914.5,
+      "interest_8h": 0.0000027376946339030476,
+      "interest_1h": 2.0921619869067666e-7,
+      "index_price": 41965.56
+    },
+    {
+      "timestamp": 1641636000000,
+      "prev_index_price": 41965.56,
+      "interest_8h": 0.000008641196304503911,
+      "interest_1h": 0.000006049458062503825,
+      "index_price": 42156.78
+    },
+    {
+      "timestamp": 1641639600000,
+      "prev_index_price": 42156.78,
+      "interest_8h": 0.00000914095984802651,
+      "interest_1h": 5.772161863993265e-7,
+      "index_price": 41919.04
+    },
+    {
+      "timestamp": 1641643200000,
+      "prev_index_price": 41919.04,
+      "interest_8h": 0.000011184694865443598,
+      "interest_1h": 0.0000021887670885267848,
+      "index_price": 41948.11
+    },
+    {
+      "timestamp": 1641646800000,
+      "prev_index_price": 41948.11,
+      "interest_8h": 0.000003862046185372083,
+      "interest_1h": -0.000007356689933535339,
+      "index_price": 41883.18
+    },
+    {
+      "timestamp": 1641650400000,
+      "prev_index_price": 41883.18,
+      "interest_8h": 0.00001975427883588301,
+      "interest_1h": 0.00001585168081790803,
+      "index_price": 41910.62
+    },
+    {
+      "timestamp": 1641654000000,
+      "prev_index_price": 41910.62,
+      "interest_8h": 0.00001894193238730464,
+      "interest_1h": 0.0000014104089638431422,
+      "index_price": 41741.84
+    },
+    {
+      "timestamp": 1641657600000,
+      "prev_index_price": 41741.84,
+      "interest_8h": -0.0020280227426830747,
+      "interest_1h": 0.0000012613184760073688,
+      "index_price": 41610.19
+    },
+    {
+      "timestamp": 1641661200000,
+      "prev_index_price": 41610.19,
+      "interest_8h": 0.000025619922111912624,
+      "interest_1h": 0.000005553792328044572,
+      "index_price": 41343.55
+    },
+    {
+      "timestamp": 1641664800000,
+      "prev_index_price": 41343.55,
+      "interest_8h": 0.000018119234539853305,
+      "interest_1h": -0.0000015106888239829868,
+      "index_price": 40833.48
+    },
+    {
+      "timestamp": 1641668400000,
+      "prev_index_price": 40833.48,
+      "interest_8h": -0.0000284263984480617,
+      "interest_1h": -0.000044681626740882724,
+      "index_price": 40679.36
+    },
+    {
+      "timestamp": 1641672000000,
+      "prev_index_price": 40679.36,
+      "interest_8h": -0.000001985904834311342,
+      "interest_1h": 0.00002778393748528881,
+      "index_price": 40821.57
+    },
+    {
+      "timestamp": 1641675600000,
+      "prev_index_price": 40821.57,
+      "interest_8h": 0.00003267044863618364,
+      "interest_1h": 0.00002661580343038896,
+      "index_price": 40970.48
+    },
+    {
+      "timestamp": 1641679200000,
+      "prev_index_price": 40970.48,
+      "interest_8h": 0.000016139352816386745,
+      "interest_1h": -6.749460823153574e-7,
+      "index_price": 41790.64
+    },
+    {
+      "timestamp": 1641682800000,
+      "prev_index_price": 41790.64,
+      "interest_8h": 0.000011838889630306457,
+      "interest_1h": -0.000002835121316674442,
+      "index_price": 41938.73
+    },
+    {
+      "timestamp": 1641686400000,
+      "prev_index_price": 41938.73,
+      "interest_8h": 0.000021980598690310007,
+      "interest_1h": 0.00001152776314813628,
+      "index_price": 41689.4
+    },
+    {
+      "timestamp": 1641690000000,
+      "prev_index_price": 41689.4,
+      "interest_8h": 0.000021578710201352343,
+      "interest_1h": 0.0000053011451967094875,
+      "index_price": 41771.7
+    },
+    {
+      "timestamp": 1641693600000,
+      "prev_index_price": 41771.7,
+      "interest_8h": 0.000027923967497148674,
+      "interest_1h": 0.0000052370583476016085,
+      "index_price": 41820.71
+    },
+    {
+      "timestamp": 1641697200000,
+      "prev_index_price": 41820.71,
+      "interest_8h": 0.00007368520542203184,
+      "interest_1h": 0.0000013916300586345619,
+      "index_price": 42111.56
+    },
+    {
+      "timestamp": 1641700800000,
+      "prev_index_price": 42111.56,
+      "interest_8h": 0.00003729718994472099,
+      "interest_1h": -0.000009041508792939218,
+      "index_price": 41847.28
+    },
+    {
+      "timestamp": 1641704400000,
+      "prev_index_price": 41847.28,
+      "interest_8h": 0.000010847725588279282,
+      "interest_1h": 1.3010115899598943e-7,
+      "index_price": 42078.35
+    },
+    {
+      "timestamp": 1641708000000,
+      "prev_index_price": 42078.35,
+      "interest_8h": 0.000027816695775471254,
+      "interest_1h": 0.00001617394872489245,
+      "index_price": 41761.54
+    },
+    {
+      "timestamp": 1641711600000,
+      "prev_index_price": 41761.54,
+      "interest_8h": 0.00003381510058393029,
+      "interest_1h": 0.0000030417593301557515,
+      "index_price": 41874.62
+    },
+    {
+      "timestamp": 1641715200000,
+      "prev_index_price": 41874.62,
+      "interest_8h": -0.000010904726479723105,
+      "interest_1h": -0.00003320644231485409,
+      "index_price": 41800.65
+    },
+    {
+      "timestamp": 1641718800000,
+      "prev_index_price": 41800.65,
+      "interest_8h": -0.00001623491054230182,
+      "interest_1h": 2.955563765619943e-9,
+      "index_price": 41666.62
+    },
+    {
+      "timestamp": 1641722400000,
+      "prev_index_price": 41666.62,
+      "interest_8h": -0.00002045780765258397,
+      "interest_1h": 0.0000010355243811567863,
+      "index_price": 41514.19
+    },
+    {
+      "timestamp": 1641726000000,
+      "prev_index_price": 41514.19,
+      "interest_8h": -0.00001428515824838221,
+      "interest_1h": 0.000007606777479391573,
+      "index_price": 41642.6
+    },
+    {
+      "timestamp": 1641729600000,
+      "prev_index_price": 41642.6,
+      "interest_8h": 0.000005295026974485719,
+      "interest_1h": 0.000010454388876668773,
+      "index_price": 41858.12
+    },
+    {
+      "timestamp": 1641733200000,
+      "prev_index_price": 41858.12,
+      "interest_8h": 0.000012203443822330485,
+      "interest_1h": 0.000006973304556096782,
+      "index_price": 41763.88
+    },
+    {
+      "timestamp": 1641736800000,
+      "prev_index_price": 41763.88,
+      "interest_8h": -0.000003075633823143374,
+      "interest_1h": 8.650254163313253e-7,
+      "index_price": 41485.65
+    },
+    {
+      "timestamp": 1641740400000,
+      "prev_index_price": 41485.65,
+      "interest_8h": -0.000005227474473361497,
+      "interest_1h": 8.992685468906737e-7,
+      "index_price": 41553.06
+    },
+    {
+      "timestamp": 1641744000000,
+      "prev_index_price": 41553.06,
+      "interest_8h": 0.000028969566721126567,
+      "interest_1h": 0.0000010326548646510497,
+      "index_price": 41627.36
+    },
+    {
+      "timestamp": 1641747600000,
+      "prev_index_price": 41627.36,
+      "interest_8h": 0.000029918155227916662,
+      "interest_1h": 0.0000010434387887529368,
+      "index_price": 42141.94
+    },
+    {
+      "timestamp": 1641751200000,
+      "prev_index_price": 42141.94,
+      "interest_8h": 0.00002952811432540365,
+      "interest_1h": 7.625038263161706e-7,
+      "index_price": 42096.42
+    },
+    {
+      "timestamp": 1641754800000,
+      "prev_index_price": 42096.42,
+      "interest_8h": 0.000011515882863715065,
+      "interest_1h": -0.000010587397491731464,
+      "index_price": 41980.24
+    },
+    {
+      "timestamp": 1641758400000,
+      "prev_index_price": 41980.24,
+      "interest_8h": 0.0000010728733100168302,
+      "interest_1h": 5.902764443112495e-9,
+      "index_price": 42708.8
+    },
+    {
+      "timestamp": 1641762000000,
+      "prev_index_price": 42708.8,
+      "interest_8h": -0.000005887073625984291,
+      "interest_1h": 0,
+      "index_price": 42451.63
+    },
+    {
+      "timestamp": 1641765600000,
+      "prev_index_price": 42451.63,
+      "interest_8h": -0.000006707189527333758,
+      "interest_1h": 0,
+      "index_price": 42316.17
+    },
+    {
+      "timestamp": 1641769200000,
+      "prev_index_price": 42316.17,
+      "interest_8h": -0.000007618817801956393,
+      "interest_1h": 0,
+      "index_price": 42209.18
+    },
+    {
+      "timestamp": 1641772800000,
+      "prev_index_price": 42209.18,
+      "interest_8h": -0.000006427785942112539,
+      "interest_1h": 0.000002270493301698147,
+      "index_price": 41871.29
+    },
+    {
+      "timestamp": 1641776400000,
+      "prev_index_price": 41871.29,
+      "interest_8h": -0.00006819852354910641,
+      "interest_1h": -0.00006024556463854596,
+      "index_price": 41662.42
+    },
+    {
+      "timestamp": 1641780000000,
+      "prev_index_price": 41662.42,
+      "interest_8h": -0.00006888653849412928,
+      "interest_1h": 0,
+      "index_price": 41820.99
+    },
+    {
+      "timestamp": 1641783600000,
+      "prev_index_price": 41820.99,
+      "interest_8h": -0.0000581382438476835,
+      "interest_1h": 0,
+      "index_price": 41947.66
+    },
+    {
+      "timestamp": 1641787200000,
+      "prev_index_price": 41947.66,
+      "interest_8h": -0.000059153228491023236,
+      "interest_1h": 0,
+      "index_price": 41982.63
+    },
+    {
+      "timestamp": 1641790800000,
+      "prev_index_price": 41982.63,
+      "interest_8h": -0.000058780700447792666,
+      "interest_1h": 1.6157813631344797e-8,
+      "index_price": 42208.23
+    },
+    {
+      "timestamp": 1641794400000,
+      "prev_index_price": 42208.23,
+      "interest_8h": -0.00005859313559615663,
+      "interest_1h": 0,
+      "index_price": 42031.5
+    },
+    {
+      "timestamp": 1641798000000,
+      "prev_index_price": 42031.5,
+      "interest_8h": -0.000058444991764202255,
+      "interest_1h": 0,
+      "index_price": 41931.95
+    },
+    {
+      "timestamp": 1641801600000,
+      "prev_index_price": 41931.95,
+      "interest_8h": 0.00009423022972359182,
+      "interest_1h": 0.0001546824574231797,
+      "index_price": 42051.1
+    },
+    {
+      "timestamp": 1641805200000,
+      "prev_index_price": 42051.1,
+      "interest_8h": 0.0003782388003080425,
+      "interest_1h": 0.00022658536702047864,
+      "index_price": 41822.31
+    },
+    {
+      "timestamp": 1641808800000,
+      "prev_index_price": 41822.31,
+      "interest_8h": 0.0003813776790520604,
+      "interest_1h": 0.0000016965957474632022,
+      "index_price": 41815.77
+    },
+    {
+      "timestamp": 1641812400000,
+      "prev_index_price": 41815.77,
+      "interest_8h": 0.0003825328193441847,
+      "interest_1h": 0,
+      "index_price": 41795.4
+    },
+    {
+      "timestamp": 1641816000000,
+      "prev_index_price": 41795.4,
+      "interest_8h": 0.00037034431076662797,
+      "interest_1h": -0.000012451630785133495,
+      "index_price": 41552.64
+    },
+    {
+      "timestamp": 1641819600000,
+      "prev_index_price": 41552.64,
+      "interest_8h": 0.00028608760527136165,
+      "interest_1h": -0.00008489120477933506,
+      "index_price": 40952.27
+    },
+    {
+      "timestamp": 1641823200000,
+      "prev_index_price": 40952.27,
+      "interest_8h": 0.00028508703155943465,
+      "interest_1h": 1.922370659878064e-7,
+      "index_price": 40771.04
+    },
+    {
+      "timestamp": 1641826800000,
+      "prev_index_price": 40771.04,
+      "interest_8h": 0.00028629114043838687,
+      "interest_1h": 0.0000018272963771230755,
+      "index_price": 40789.41
+    },
+    {
+      "timestamp": 1641830400000,
+      "prev_index_price": 40789.41,
+      "interest_8h": 0.00013204787085685724,
+      "interest_1h": 9.610217914795515e-8,
+      "index_price": 40986.46
+    },
+    {
+      "timestamp": 1641834000000,
+      "prev_index_price": 40986.46,
+      "interest_8h": -0.00009250705736602602,
+      "interest_1h": 0.0000015019682670172076,
+      "index_price": 41914.06
+    },
+    {
+      "timestamp": 1641837600000,
+      "prev_index_price": 41914.06,
+      "interest_8h": -0.00009060853645001556,
+      "interest_1h": 0.000003586749017812624,
+      "index_price": 41203.37
+    },
+    {
+      "timestamp": 1641841200000,
+      "prev_index_price": 41203.37,
+      "interest_8h": -0.00009056270840954074,
+      "interest_1h": 0,
+      "index_price": 41633.19
+    },
+    {
+      "timestamp": 1641844800000,
+      "prev_index_price": 41633.19,
+      "interest_8h": -0.00007752841396300989,
+      "interest_1h": 1.2922151569277793e-7,
+      "index_price": 41287.67
+    },
+    {
+      "timestamp": 1641848400000,
+      "prev_index_price": 41287.67,
+      "interest_8h": 0.000007672018671427406,
+      "interest_1h": 4.1901239335233436e-7,
+      "index_price": 41721.03
+    },
+    {
+      "timestamp": 1641852000000,
+      "prev_index_price": 41721.03,
+      "interest_8h": 0.000007429721293301999,
+      "interest_1h": -1.735448113260104e-8,
+      "index_price": 41729.31
+    },
+    {
+      "timestamp": 1641855600000,
+      "prev_index_price": 41729.31,
+      "interest_8h": 0.000005604949172261433,
+      "interest_1h": 0,
+      "index_price": 41614.46
+    },
+    {
+      "timestamp": 1641859200000,
+      "prev_index_price": 41614.46,
+      "interest_8h": -0.0000044186383607449966,
+      "interest_1h": -0.000010105840188394414,
+      "index_price": 41833.93
+    },
+    {
+      "timestamp": 1641862800000,
+      "prev_index_price": 41833.93,
+      "interest_8h": -0.0000060561043558352975,
+      "interest_1h": -2.2805113622032633e-9,
+      "index_price": 41617.09
+    },
+    {
+      "timestamp": 1641866400000,
+      "prev_index_price": 41617.09,
+      "interest_8h": -0.000009914677160136748,
+      "interest_1h": -4.396979890201204e-7,
+      "index_price": 41931.03
+    },
+    {
+      "timestamp": 1641870000000,
+      "prev_index_price": 41931.03,
+      "interest_8h": 0.000014946908566730832,
+      "interest_1h": 0.000025144419760873808,
+      "index_price": 42194.81
+    },
+    {
+      "timestamp": 1641873600000,
+      "prev_index_price": 42194.81,
+      "interest_8h": 0.000014305130137096182,
+      "interest_1h": -3.9895742566277543e-7,
+      "index_price": 42287.28
+    },
+    {
+      "timestamp": 1641877200000,
+      "prev_index_price": 42287.28,
+      "interest_8h": 0.000014013918205317247,
+      "interest_1h": -1.8193402328793813e-8,
+      "index_price": 42328.17
+    },
+    {
+      "timestamp": 1641880800000,
+      "prev_index_price": 42328.17,
+      "interest_8h": 0.000015913433815406254,
+      "interest_1h": 0.0000019066299045709842,
+      "index_price": 42118.64
+    },
+    {
+      "timestamp": 1641884400000,
+      "prev_index_price": 42118.64,
+      "interest_8h": 0.000015869913497508682,
+      "interest_1h": 0,
+      "index_price": 42109.15
+    },
+    {
+      "timestamp": 1641888000000,
+      "prev_index_price": 42109.15,
+      "interest_8h": 0.000026147912482895967,
+      "interest_1h": 3.539693190364028e-8,
+      "index_price": 42216.91
+    },
+    {
+      "timestamp": 1641891600000,
+      "prev_index_price": 42216.91,
+      "interest_8h": 0.00002601464732955789,
+      "interest_1h": 0,
+      "index_price": 41996.75
+    },
+    {
+      "timestamp": 1641895200000,
+      "prev_index_price": 41996.75,
+      "interest_8h": 0.00016889058874513608,
+      "interest_1h": 0.00014245961676287902,
+      "index_price": 41991.73
+    },
+    {
+      "timestamp": 1641898800000,
+      "prev_index_price": 41991.73,
+      "interest_8h": 0.0002607754729576905,
+      "interest_1h": 0.00011557510492876093,
+      "index_price": 41630.96
+    },
+    {
+      "timestamp": 1641902400000,
+      "prev_index_price": 41630.96,
+      "interest_8h": 0.0002617565725866755,
+      "interest_1h": 7.232921545602477e-10,
+      "index_price": 41857.83
+    },
+    {
+      "timestamp": 1641906000000,
+      "prev_index_price": 41857.83,
+      "interest_8h": 0.0002620221661450778,
+      "interest_1h": -5.661287753563753e-9,
+      "index_price": 41832.44
+    },
+    {
+      "timestamp": 1641909600000,
+      "prev_index_price": 41832.44,
+      "interest_8h": 0.00025882793017796085,
+      "interest_1h": 0,
+      "index_price": 41710.22
+    },
+    {
+      "timestamp": 1641913200000,
+      "prev_index_price": 41710.22,
+      "interest_8h": 0.0002587696121254932,
+      "interest_1h": 0,
+      "index_price": 41642.73
+    },
+    {
+      "timestamp": 1641916800000,
+      "prev_index_price": 41642.73,
+      "interest_8h": 0.00025939633254882616,
+      "interest_1h": 0,
+      "index_price": 41741.64
+    },
+    {
+      "timestamp": 1641920400000,
+      "prev_index_price": 41741.64,
+      "interest_8h": 0.00025804367105934043,
+      "interest_1h": 2.7697242932387534e-9,
+      "index_price": 42718.62
+    },
+    {
+      "timestamp": 1641924000000,
+      "prev_index_price": 42718.62,
+      "interest_8h": 0.0001363858842224623,
+      "interest_1h": 0.00002117322137221948,
+      "index_price": 42570.91
+    },
+    {
+      "timestamp": 1641927600000,
+      "prev_index_price": 42570.91,
+      "interest_8h": 0.00009855922943765138,
+      "interest_1h": 0.00007968669790371272,
+      "index_price": 42769.95
+    },
+    {
+      "timestamp": 1641931200000,
+      "prev_index_price": 42769.95,
+      "interest_8h": 0.000053967307450380476,
+      "interest_1h": -0.00004609866573165463,
+      "index_price": 43011.8
+    },
+    {
+      "timestamp": 1641934800000,
+      "prev_index_price": 43011.8,
+      "interest_8h": 0.000053946037452242196,
+      "interest_1h": -7.121348522717439e-9,
+      "index_price": 42803.49
+    },
+    {
+      "timestamp": 1641938400000,
+      "prev_index_price": 42803.49,
+      "interest_8h": 0.000053695857274332245,
+      "interest_1h": -9.499473130739249e-8,
+      "index_price": 42685.38
+    },
+    {
+      "timestamp": 1641942000000,
+      "prev_index_price": 42685.38,
+      "interest_8h": 0.00005350258630245366,
+      "interest_1h": -1.0905111346651465e-7,
+      "index_price": 42729.64
+    },
+    {
+      "timestamp": 1641945600000,
+      "prev_index_price": 42729.64,
+      "interest_8h": 0.00005082615944258778,
+      "interest_1h": -0.000002869863788063453,
+      "index_price": 42744.76
+    },
+    {
+      "timestamp": 1641949200000,
+      "prev_index_price": 42744.76,
+      "interest_8h": 0.00004618515536042763,
+      "interest_1h": -0.000005831342471770676,
+      "index_price": 42708.63
+    },
+    {
+      "timestamp": 1641952800000,
+      "prev_index_price": 42708.63,
+      "interest_8h": 0.00001421049365502358,
+      "interest_1h": -0.000010749619161797389,
+      "index_price": 42648.01
+    },
+    {
+      "timestamp": 1641956400000,
+      "prev_index_price": 42648.01,
+      "interest_8h": -0.00006807568389844539,
+      "interest_1h": -0.0000022868076186069658,
+      "index_price": 42579.27
+    },
+    {
+      "timestamp": 1641960000000,
+      "prev_index_price": 42579.27,
+      "interest_8h": 0.0000074983703042993464,
+      "interest_1h": 0.000029302004788680745,
+      "index_price": 42623.11
+    },
+    {
+      "timestamp": 1641963600000,
+      "prev_index_price": 42623.11,
+      "interest_8h": 0.000007438643068697081,
+      "interest_1h": -3.03702894264672e-8,
+      "index_price": 42638.36
+    },
+    {
+      "timestamp": 1641967200000,
+      "prev_index_price": 42638.36,
+      "interest_8h": 0.0000075128498231231835,
+      "interest_1h": 0,
+      "index_price": 42720.75
+    },
+    {
+      "timestamp": 1641970800000,
+      "prev_index_price": 42720.75,
+      "interest_8h": 0.00010676927677302668,
+      "interest_1h": 0.00009911884657576334,
+      "index_price": 42690.11
+    },
+    {
+      "timestamp": 1641974400000,
+      "prev_index_price": 42690.11,
+      "interest_8h": 0.00007923371449211847,
+      "interest_1h": -0.000030405298653597103,
+      "index_price": 42579.23
+    },
+    {
+      "timestamp": 1641978000000,
+      "prev_index_price": 42579.23,
+      "interest_8h": 0.0000831174158042135,
+      "interest_1h": -0.0000018700567589403977,
+      "index_price": 42627.53
+    },
+    {
+      "timestamp": 1641981600000,
+      "prev_index_price": 42627.53,
+      "interest_8h": 0.00009367880529965318,
+      "interest_1h": -5.496977058562146e-8,
+      "index_price": 42813.71
+    },
+    {
+      "timestamp": 1641985200000,
+      "prev_index_price": 42813.71,
+      "interest_8h": 0.0001389449561172444,
+      "interest_1h": 0.000043371514870064635,
+      "index_price": 42785.93
+    },
+    {
+      "timestamp": 1641988800000,
+      "prev_index_price": 42785.93,
+      "interest_8h": 0.00010821953736553544,
+      "interest_1h": -0.000001542172002153254,
+      "index_price": 42953.8
+    },
+    {
+      "timestamp": 1641992400000,
+      "prev_index_price": 42953.8,
+      "interest_8h": 0.00010590694283600344,
+      "interest_1h": -0.000002345364632404376,
+      "index_price": 43303.09
+    },
+    {
+      "timestamp": 1641996000000,
+      "prev_index_price": 43303.09,
+      "interest_8h": 0.00011241222592990695,
+      "interest_1h": 0.000006373437985258675,
+      "index_price": 43956.7
+    },
+    {
+      "timestamp": 1641999600000,
+      "prev_index_price": 43956.7,
+      "interest_8h": 0.000028859561582567398,
+      "interest_1h": 0.00001588961754058288,
+      "index_price": 43871.88
+    },
+    {
+      "timestamp": 1642003200000,
+      "prev_index_price": 43871.88,
+      "interest_8h": 0.000058652817898454564,
+      "interest_1h": -3.6135684192387136e-7,
+      "index_price": 43572.65
+    },
+    {
+      "timestamp": 1642006800000,
+      "prev_index_price": 43572.65,
+      "interest_8h": 0.00005936023553307294,
+      "interest_1h": -0.0000012599400577046433,
+      "index_price": 43636.23
+    },
+    {
+      "timestamp": 1642010400000,
+      "prev_index_price": 43636.23,
+      "interest_8h": 0.00007294142784089566,
+      "interest_1h": 0.000013536544496503778,
+      "index_price": 43862.56
+    },
+    {
+      "timestamp": 1642014000000,
+      "prev_index_price": 43862.56,
+      "interest_8h": 0.000027913604500000524,
+      "interest_1h": -0.0000017254188366721829,
+      "index_price": 43612.25
+    },
+    {
+      "timestamp": 1642017600000,
+      "prev_index_price": 43612.25,
+      "interest_8h": 0.00002871532012556271,
+      "interest_1h": -8.374117808955771e-7,
+      "index_price": 43767.06
+    },
+    {
+      "timestamp": 1642021200000,
+      "prev_index_price": 43767.06,
+      "interest_8h": 0.00002904528939416655,
+      "interest_1h": -0.0000022953255302143137,
+      "index_price": 43846.57
+    },
+    {
+      "timestamp": 1642024800000,
+      "prev_index_price": 43846.57,
+      "interest_8h": 0.00002964317084001211,
+      "interest_1h": 0.0000066125053716195325,
+      "index_price": 43792.76
+    },
+    {
+      "timestamp": 1642028400000,
+      "prev_index_price": 43792.76,
+      "interest_8h": 0.000004299599012577036,
+      "interest_1h": -0.000009410413357791666,
+      "index_price": 43862.59
+    },
+    {
+      "timestamp": 1642032000000,
+      "prev_index_price": 43862.59,
+      "interest_8h": 0.000004414851527520821,
+      "interest_1h": -2.1574016504822655e-7,
+      "index_price": 43925.34
+    },
+    {
+      "timestamp": 1642035600000,
+      "prev_index_price": 43925.34,
+      "interest_8h": 0.00001156225456049931,
+      "interest_1h": 0.000005918134752439057,
+      "index_price": 43741.22
+    },
+    {
+      "timestamp": 1642039200000,
+      "prev_index_price": 43741.22,
+      "interest_8h": -0.0000037355404565105426,
+      "interest_1h": -0.0000017461664421595092,
+      "index_price": 43563.54
+    },
+    {
+      "timestamp": 1642042800000,
+      "prev_index_price": 43563.54,
+      "interest_8h": -0.0000019986985854584188,
+      "interest_1h": 0,
+      "index_price": 43615.1
+    },
+    {
+      "timestamp": 1642046400000,
+      "prev_index_price": 43615.1,
+      "interest_8h": -0.000001219490432001362,
+      "interest_1h": -5.394175500763849e-8,
+      "index_price": 43531.58
+    },
+    {
+      "timestamp": 1642050000000,
+      "prev_index_price": 43531.58,
+      "interest_8h": 8.681208812741605e-7,
+      "interest_1h": -2.0816240520810122e-7,
+      "index_price": 43648.6
+    },
+    {
+      "timestamp": 1642053600000,
+      "prev_index_price": 43648.6,
+      "interest_8h": -0.000005831510481162135,
+      "interest_1h": -9.386568059050177e-8,
+      "index_price": 43699.05
+    },
+    {
+      "timestamp": 1642057200000,
+      "prev_index_price": 43699.05,
+      "interest_8h": -0.0000013229640271664993,
+      "interest_1h": -0.000004889275962265052,
+      "index_price": 43735.76
+    },
+    {
+      "timestamp": 1642060800000,
+      "prev_index_price": 43735.76,
+      "interest_8h": -0.0000011156784128283692,
+      "interest_1h": -6.840898716001982e-9,
+      "index_price": 43723.91
+    },
+    {
+      "timestamp": 1642064400000,
+      "prev_index_price": 43723.91,
+      "interest_8h": -0.000043318969422059894,
+      "interest_1h": -0.00003630026856495979,
+      "index_price": 43920.27
+    },
+    {
+      "timestamp": 1642068000000,
+      "prev_index_price": 43920.27,
+      "interest_8h": -0.00004149957188914987,
+      "interest_1h": -9.642381769573236e-8,
+      "index_price": 43883.71
+    },
+    {
+      "timestamp": 1642071600000,
+      "prev_index_price": 43883.71,
+      "interest_8h": -0.00004200070488484352,
+      "interest_1h": -4.54799628628542e-7,
+      "index_price": 43810.05
+    },
+    {
+      "timestamp": 1642075200000,
+      "prev_index_price": 43810.05,
+      "interest_8h": -0.000042170113368700005,
+      "interest_1h": -2.2930545828111085e-7,
+      "index_price": 43778.41
+    },
+    {
+      "timestamp": 1642078800000,
+      "prev_index_price": 43778.41,
+      "interest_8h": -0.0000852088417093919,
+      "interest_1h": -0.00004332259397305223,
+      "index_price": 43819.93
+    },
+    {
+      "timestamp": 1642082400000,
+      "prev_index_price": 43819.93,
+      "interest_8h": -0.00013132033176996752,
+      "interest_1h": -0.000046218462384936705,
+      "index_price": 43945.62
+    },
+    {
+      "timestamp": 1642086000000,
+      "prev_index_price": 43945.62,
+      "interest_8h": -0.0001585252782820433,
+      "interest_1h": -0.00003226968850035342,
+      "index_price": 44186.61
+    },
+    {
+      "timestamp": 1642089600000,
+      "prev_index_price": 44186.61,
+      "interest_8h": -0.00020220290825700667,
+      "interest_1h": -0.0000441950263084891,
+      "index_price": 43223.91
+    },
+    {
+      "timestamp": 1642093200000,
+      "prev_index_price": 43223.91,
+      "interest_8h": -0.0001663882523221022,
+      "interest_1h": 2.4948851756865505e-7,
+      "index_price": 43277.09
+    },
+    {
+      "timestamp": 1642096800000,
+      "prev_index_price": 43277.09,
+      "interest_8h": -0.00016619683559855882,
+      "interest_1h": 0,
+      "index_price": 42834.29
+    },
+    {
+      "timestamp": 1642100400000,
+      "prev_index_price": 42834.29,
+      "interest_8h": -0.00016550439298353592,
+      "interest_1h": -1.3346042919118485e-9,
+      "index_price": 42727.33
+    },
+    {
+      "timestamp": 1642104000000,
+      "prev_index_price": 42727.33,
+      "interest_8h": -0.00016767828174389605,
+      "interest_1h": 0,
+      "index_price": 42718.38
+    },
+    {
+      "timestamp": 1642107600000,
+      "prev_index_price": 42718.38,
+      "interest_8h": -0.00012197457551391445,
+      "interest_1h": 0,
+      "index_price": 42774.22
+    },
+    {
+      "timestamp": 1642111200000,
+      "prev_index_price": 42774.22,
+      "interest_8h": -0.00007592505163632106,
+      "interest_1h": 0,
+      "index_price": 42827.4
+    },
+    {
+      "timestamp": 1642114800000,
+      "prev_index_price": 42827.4,
+      "interest_8h": -0.00004397537429821834,
+      "interest_1h": 0,
+      "index_price": 42619.43
+    },
+    {
+      "timestamp": 1642118400000,
+      "prev_index_price": 42619.43,
+      "interest_8h": 2.3728460510169908e-7,
+      "interest_1h": -1.0478496121372971e-8,
+      "index_price": 42573.51
+    },
+    {
+      "timestamp": 1642122000000,
+      "prev_index_price": 42573.51,
+      "interest_8h": -1.1988590470898596e-8,
+      "interest_1h": 0,
+      "index_price": 42779.59
+    },
+    {
+      "timestamp": 1642125600000,
+      "prev_index_price": 42779.59,
+      "interest_8h": -0.0000023851797387422618,
+      "interest_1h": -0.000002370283056801441,
+      "index_price": 42609.98
+    },
+    {
+      "timestamp": 1642129200000,
+      "prev_index_price": 42609.98,
+      "interest_8h": -0.00000806484464766806,
+      "interest_1h": -0.00000567133299652764,
+      "index_price": 42742.04
+    },
+    {
+      "timestamp": 1642132800000,
+      "prev_index_price": 42742.04,
+      "interest_8h": -0.000010478981360127886,
+      "interest_1h": -0.0000024171640670596177,
+      "index_price": 42676.67
+    },
+    {
+      "timestamp": 1642136400000,
+      "prev_index_price": 42676.67,
+      "interest_8h": -0.000010506283577630905,
+      "interest_1h": -1.3573426733722295e-8,
+      "index_price": 42709.41
+    },
+    {
+      "timestamp": 1642140000000,
+      "prev_index_price": 42709.41,
+      "interest_8h": -0.000010521555986212622,
+      "interest_1h": -2.2041487091181646e-9,
+      "index_price": 42916.23
+    },
+    {
+      "timestamp": 1642143600000,
+      "prev_index_price": 42916.23,
+      "interest_8h": -0.000010470463274573515,
+      "interest_1h": 0,
+      "index_price": 42835.76
+    },
+    {
+      "timestamp": 1642147200000,
+      "prev_index_price": 42835.76,
+      "interest_8h": -0.000030493853383088903,
+      "interest_1h": -0.000020168615365931115,
+      "index_price": 42656.24
+    },
+    {
+      "timestamp": 1642150800000,
+      "prev_index_price": 42656.24,
+      "interest_8h": -0.0001132743434454765,
+      "interest_1h": -0.0000823946201106071,
+      "index_price": 42533.26
+    },
+    {
+      "timestamp": 1642154400000,
+      "prev_index_price": 42533.26,
+      "interest_8h": -0.00011175499475214565,
+      "interest_1h": -0.0000012883164332660465,
+      "index_price": 42577.89
+    },
+    {
+      "timestamp": 1642158000000,
+      "prev_index_price": 42577.89,
+      "interest_8h": -0.0001130793849908495,
+      "interest_1h": -0.000006641336647327862,
+      "index_price": 42098.25
+    },
+    {
+      "timestamp": 1642161600000,
+      "prev_index_price": 42098.25,
+      "interest_8h": -0.0001148859691274569,
+      "interest_1h": -0.000004333455193643595,
+      "index_price": 42030.29
+    },
+    {
+      "timestamp": 1642165200000,
+      "prev_index_price": 42030.29,
+      "interest_8h": -0.00011534766118126372,
+      "interest_1h": -3.809836425433712e-7,
+      "index_price": 42075.2
+    },
+    {
+      "timestamp": 1642168800000,
+      "prev_index_price": 42075.2,
+      "interest_8h": -0.00006607223706539139,
+      "interest_1h": 0.00004885522535773865,
+      "index_price": 42175.45
+    },
+    {
+      "timestamp": 1642172400000,
+      "prev_index_price": 42175.45,
+      "interest_8h": -0.00004957746834866617,
+      "interest_1h": 0.000016118524209120943,
+      "index_price": 43009.3
+    },
+    {
+      "timestamp": 1642176000000,
+      "prev_index_price": 43009.3,
+      "interest_8h": -0.000020377083701974244,
+      "interest_1h": 0.000008982254614017561,
+      "index_price": 43114.98
+    },
+    {
+      "timestamp": 1642179600000,
+      "prev_index_price": 43114.98,
+      "interest_8h": 0.00006183873685603437,
+      "interest_1h": 0,
+      "index_price": 43217.33
+    },
+    {
+      "timestamp": 1642183200000,
+      "prev_index_price": 43217.33,
+      "interest_8h": 0.00006319332196772683,
+      "interest_1h": 0,
+      "index_price": 42923.02
+    },
+    {
+      "timestamp": 1642186800000,
+      "prev_index_price": 42923.02,
+      "interest_8h": 0.00006904794172310632,
+      "interest_1h": 0,
+      "index_price": 43076.09
+    },
+    {
+      "timestamp": 1642190400000,
+      "prev_index_price": 43076.09,
+      "interest_8h": 0.00007315489521770027,
+      "interest_1h": -1.1072899947409245e-7,
+      "index_price": 43115
+    },
+    {
+      "timestamp": 1642194000000,
+      "prev_index_price": 43115,
+      "interest_8h": 0.00007262100999948551,
+      "interest_1h": -0.0000010179939125490717,
+      "index_price": 43122.83
+    },
+    {
+      "timestamp": 1642197600000,
+      "prev_index_price": 43122.83,
+      "interest_8h": 0.000020171918301122566,
+      "interest_1h": -0.0000037324919947534526,
+      "index_price": 43326.15
+    },
+    {
+      "timestamp": 1642201200000,
+      "prev_index_price": 43326.15,
+      "interest_8h": -0.0000068066196440516045,
+      "interest_1h": -0.000011020749544948593,
+      "index_price": 43286.91
+    },
+    {
+      "timestamp": 1642204800000,
+      "prev_index_price": 43286.91,
+      "interest_8h": -0.000023728768716435888,
+      "interest_1h": -0.000007932606221142775,
+      "index_price": 43088.48
+    },
+    {
+      "timestamp": 1642208400000,
+      "prev_index_price": 43088.48,
+      "interest_8h": -0.000023795688232388365,
+      "interest_1h": -1.0558576265434264e-8,
+      "index_price": 43132.89
+    },
+    {
+      "timestamp": 1642212000000,
+      "prev_index_price": 43132.89,
+      "interest_8h": -0.000023633639605051267,
+      "interest_1h": 0,
+      "index_price": 43000.98
+    },
+    {
+      "timestamp": 1642215600000,
+      "prev_index_price": 43000.98,
+      "interest_8h": -0.000033441278464919127,
+      "interest_1h": -0.00000970640349874134,
+      "index_price": 43113.97
+    },
+    {
+      "timestamp": 1642219200000,
+      "prev_index_price": 43113.97,
+      "interest_8h": -0.000043298555653907974,
+      "interest_1h": -0.000009939891292664334,
+      "index_price": 42955.97
+    },
+    {
+      "timestamp": 1642222800000,
+      "prev_index_price": 42955.97,
+      "interest_8h": -0.00005117363287015521,
+      "interest_1h": -0.000008848790080685404,
+      "index_price": 42945.95
+    },
+    {
+      "timestamp": 1642226400000,
+      "prev_index_price": 42945.95,
+      "interest_8h": -0.00005042954573005905,
+      "interest_1h": -0.000002740463145188851,
+      "index_price": 43019.13
+    },
+    {
+      "timestamp": 1642230000000,
+      "prev_index_price": 43019.13,
+      "interest_8h": -0.000044316979526505345,
+      "interest_1h": -0.000004913291805811158,
+      "index_price": 43107.16
+    },
+    {
+      "timestamp": 1642233600000,
+      "prev_index_price": 43107.16,
+      "interest_8h": -0.0000727866381001194,
+      "interest_1h": -0.00003658490677470153,
+      "index_price": 43104.25
+    },
+    {
+      "timestamp": 1642237200000,
+      "prev_index_price": 43104.25,
+      "interest_8h": -0.00010030682435472895,
+      "interest_1h": -0.00002743620615072581,
+      "index_price": 43008.18
+    },
+    {
+      "timestamp": 1642240800000,
+      "prev_index_price": 43008.18,
+      "interest_8h": -0.00009133924496550176,
+      "interest_1h": 0.00000866226889377184,
+      "index_price": 43086.06
+    },
+    {
+      "timestamp": 1642244400000,
+      "prev_index_price": 43086.06,
+      "interest_8h": -0.00008185279851497006,
+      "interest_1h": -5.453874691399967e-9,
+      "index_price": 43132.52
+    },
+    {
+      "timestamp": 1642248000000,
+      "prev_index_price": 43132.52,
+      "interest_8h": -0.00007294001689863415,
+      "interest_1h": -0.0000012959538955245267,
+      "index_price": 43039.93
+    },
+    {
+      "timestamp": 1642251600000,
+      "prev_index_price": 43039.93,
+      "interest_8h": -0.00006852073680045248,
+      "interest_1h": -0.000004454185991474266,
+      "index_price": 42727.18
+    },
+    {
+      "timestamp": 1642255200000,
+      "prev_index_price": 42727.18,
+      "interest_8h": -0.00006589312105129536,
+      "interest_1h": -7.525128796000517e-10,
+      "index_price": 42934.6
+    },
+    {
+      "timestamp": 1642258800000,
+      "prev_index_price": 42934.6,
+      "interest_8h": -0.00006111809925685512,
+      "interest_1h": -1.4640878777570822e-8,
+      "index_price": 43213.57
+    },
+    {
+      "timestamp": 1642262400000,
+      "prev_index_price": 43213.57,
+      "interest_8h": -0.00003016472366887352,
+      "interest_1h": -0.000005646656609205757,
+      "index_price": 43419.86
+    },
+    {
+      "timestamp": 1642266000000,
+      "prev_index_price": 43419.86,
+      "interest_8h": -0.0000029479633795318264,
+      "interest_1h": -2.2859544982048344e-7,
+      "index_price": 43366.69
+    },
+    {
+      "timestamp": 1642269600000,
+      "prev_index_price": 43366.69,
+      "interest_8h": -0.00001166541464585399,
+      "interest_1h": -3.438083297841237e-8,
+      "index_price": 43409.02
+    },
+    {
+      "timestamp": 1642273200000,
+      "prev_index_price": 43409.02,
+      "interest_8h": -0.000013840613165170882,
+      "interest_1h": -0.0000021819777983169315,
+      "index_price": 43355.18
+    },
+    {
+      "timestamp": 1642276800000,
+      "prev_index_price": 43355.18,
+      "interest_8h": -0.00001804701356969031,
+      "interest_1h": -0.000005569782922184965,
+      "index_price": 43557.29
+    },
+    {
+      "timestamp": 1642280400000,
+      "prev_index_price": 43557.29,
+      "interest_8h": -0.000014198016611106283,
+      "interest_1h": -7.176380917271249e-7,
+      "index_price": 43517.52
+    },
+    {
+      "timestamp": 1642284000000,
+      "prev_index_price": 43517.52,
+      "interest_8h": -0.000014266228523129024,
+      "interest_1h": -4.4096403904032244e-11,
+      "index_price": 43336.03
+    },
+    {
+      "timestamp": 1642287600000,
+      "prev_index_price": 43336.03,
+      "interest_8h": -0.000014709552287092244,
+      "interest_1h": -3.6639952387876393e-7,
+      "index_price": 43269.2
+    },
+    {
+      "timestamp": 1642291200000,
+      "prev_index_price": 43269.2,
+      "interest_8h": -0.000010287025385059938,
+      "interest_1h": -0.0000011767684559349972,
+      "index_price": 43099.55
+    },
+    {
+      "timestamp": 1642294800000,
+      "prev_index_price": 43099.55,
+      "interest_8h": -0.000016373493235882937,
+      "interest_1h": -0.000006288403562939309,
+      "index_price": 43096.85
+    },
+    {
+      "timestamp": 1642298400000,
+      "prev_index_price": 43096.85,
+      "interest_8h": -0.000017554324466898768,
+      "interest_1h": -0.000001190639202668636,
+      "index_price": 43033.6
+    },
+    {
+      "timestamp": 1642302000000,
+      "prev_index_price": 43033.6,
+      "interest_8h": -0.00001627721627237042,
+      "interest_1h": -9.172052145736745e-7,
+      "index_price": 42942.66
+    },
+    {
+      "timestamp": 1642305600000,
+      "prev_index_price": 42942.66,
+      "interest_8h": -0.000015813647851026937,
+      "interest_1h": -0.000004984828487905443,
+      "index_price": 43015.35
+    },
+    {
+      "timestamp": 1642309200000,
+      "prev_index_price": 43015.35,
+      "interest_8h": -0.0000154760211954093,
+      "interest_1h": -3.892506615993606e-7,
+      "index_price": 43062.78
+    },
+    {
+      "timestamp": 1642312800000,
+      "prev_index_price": 43062.78,
+      "interest_8h": -0.000020906634197477533,
+      "interest_1h": -0.000005460550420890116,
+      "index_price": 43004.21
+    },
+    {
+      "timestamp": 1642316400000,
+      "prev_index_price": 43004.21,
+      "interest_8h": -0.00002371628942529163,
+      "interest_1h": -0.000003188085722153958,
+      "index_price": 43227.8
+    },
+    {
+      "timestamp": 1642320000000,
+      "prev_index_price": 43227.8,
+      "interest_8h": -0.000030291685248268195,
+      "interest_1h": -0.00000786386814028209,
+      "index_price": 43239.92
+    },
+    {
+      "timestamp": 1642323600000,
+      "prev_index_price": 43239.92,
+      "interest_8h": -0.000024845195064303804,
+      "interest_1h": -8.462169993617508e-7,
+      "index_price": 43109.66
+    },
+    {
+      "timestamp": 1642327200000,
+      "prev_index_price": 43109.66,
+      "interest_8h": -0.000023783306564008292,
+      "interest_1h": -1.637556322129233e-7,
+      "index_price": 43106.17
+    },
+    {
+      "timestamp": 1642330800000,
+      "prev_index_price": 43106.17,
+      "interest_8h": -0.00002297285026016143,
+      "interest_1h": -1.5566074930863125e-7,
+      "index_price": 42943.72
+    },
+    {
+      "timestamp": 1642334400000,
+      "prev_index_price": 42943.72,
+      "interest_8h": -0.00001822426880006907,
+      "interest_1h": -2.0545560212718776e-7,
+      "index_price": 43008.41
+    },
+    {
+      "timestamp": 1642338000000,
+      "prev_index_price": 43008.41,
+      "interest_8h": -0.000017881238467395713,
+      "interest_1h": -2.652138167785622e-8,
+      "index_price": 43042.81
+    },
+    {
+      "timestamp": 1642341600000,
+      "prev_index_price": 43042.81,
+      "interest_8h": -0.00001890833485688931,
+      "interest_1h": -0.000006510378666246367,
+      "index_price": 43164.8
+    },
+    {
+      "timestamp": 1642345200000,
+      "prev_index_price": 43164.8,
+      "interest_8h": -0.000012928970913671032,
+      "interest_1h": 0.000002868824743925264,
+      "index_price": 43335.09
+    },
+    {
+      "timestamp": 1642348800000,
+      "prev_index_price": 43335.09,
+      "interest_8h": -0.000005066522902232266,
+      "interest_1h": 0,
+      "index_price": 43248.69
+    },
+    {
+      "timestamp": 1642352400000,
+      "prev_index_price": 43248.69,
+      "interest_8h": -0.000010110839290394024,
+      "interest_1h": -0.000005922285189844686,
+      "index_price": 43414.26
+    },
+    {
+      "timestamp": 1642356000000,
+      "prev_index_price": 43414.26,
+      "interest_8h": -0.000009946278378761894,
+      "interest_1h": 0,
+      "index_price": 43097.04
+    },
+    {
+      "timestamp": 1642359600000,
+      "prev_index_price": 43097.04,
+      "interest_8h": -0.000009753638921851745,
+      "interest_1h": 0,
+      "index_price": 43085.34
+    },
+    {
+      "timestamp": 1642363200000,
+      "prev_index_price": 43085.34,
+      "interest_8h": -0.000009962262353104895,
+      "interest_1h": -4.0105622241761723e-7,
+      "index_price": 42856.9
+    },
+    {
+      "timestamp": 1642366800000,
+      "prev_index_price": 42856.9,
+      "interest_8h": -0.000010447704780095261,
+      "interest_1h": -5.011161134381409e-7,
+      "index_price": 43059.91
+    },
+    {
+      "timestamp": 1642370400000,
+      "prev_index_price": 43059.91,
+      "interest_8h": -0.000007503753891788631,
+      "interest_1h": -0.0000035466295200760195,
+      "index_price": 42979.48
+    },
+    {
+      "timestamp": 1642374000000,
+      "prev_index_price": 42979.48,
+      "interest_8h": -0.000013047970394720915,
+      "interest_1h": -0.000002612852163470402,
+      "index_price": 43219.85
+    },
+    {
+      "timestamp": 1642377600000,
+      "prev_index_price": 43219.85,
+      "interest_8h": -0.00001318819022129739,
+      "interest_1h": -1.661235656455437e-7,
+      "index_price": 43102.2
+    },
+    {
+      "timestamp": 1642381200000,
+      "prev_index_price": 43102.2,
+      "interest_8h": -0.000009356535891104188,
+      "interest_1h": -0.00000204798719000759,
+      "index_price": 42919.97
+    },
+    {
+      "timestamp": 1642384800000,
+      "prev_index_price": 42919.97,
+      "interest_8h": -0.000010721736441815785,
+      "interest_1h": -0.000001429230707059266,
+      "index_price": 42914.99
+    },
+    {
+      "timestamp": 1642388400000,
+      "prev_index_price": 42914.99,
+      "interest_8h": -0.00001074492477119505,
+      "interest_1h": -2.4442384803346463e-8,
+      "index_price": 42946.07
+    },
+    {
+      "timestamp": 1642392000000,
+      "prev_index_price": 42946.07,
+      "interest_8h": -0.000010289024991054954,
+      "interest_1h": 0,
+      "index_price": 42661.66
+    },
+    {
+      "timestamp": 1642395600000,
+      "prev_index_price": 42661.66,
+      "interest_8h": -0.000009834273485911978,
+      "interest_1h": 0,
+      "index_price": 42630.58
+    },
+    {
+      "timestamp": 1642399200000,
+      "prev_index_price": 42630.58,
+      "interest_8h": -0.0000062758995101654235,
+      "interest_1h": 0,
+      "index_price": 42675.03
+    },
+    {
+      "timestamp": 1642402800000,
+      "prev_index_price": 42675.03,
+      "interest_8h": -0.000007918510825144789,
+      "interest_1h": -0.000004181592068064212,
+      "index_price": 42780.71
+    },
+    {
+      "timestamp": 1642406400000,
+      "prev_index_price": 42780.71,
+      "interest_8h": -0.000007731284262587406,
+      "interest_1h": 0,
+      "index_price": 42680.83
+    },
+    {
+      "timestamp": 1642410000000,
+      "prev_index_price": 42680.83,
+      "interest_8h": -0.0000057040841617208816,
+      "interest_1h": -4.4565564492595237e-8,
+      "index_price": 42825.14
+    },
+    {
+      "timestamp": 1642413600000,
+      "prev_index_price": 42825.14,
+      "interest_8h": -0.000004274357443825536,
+      "interest_1h": 0,
+      "index_price": 42877.67
+    },
+    {
+      "timestamp": 1642417200000,
+      "prev_index_price": 42877.67,
+      "interest_8h": -0.00000425203612389467,
+      "interest_1h": 9.552951819248847e-10,
+      "index_price": 42808.06
+    },
+    {
+      "timestamp": 1642420800000,
+      "prev_index_price": 42808.06,
+      "interest_8h": -0.000004200213811300195,
+      "interest_1h": 2.3744441889698065e-8,
+      "index_price": 42692.67
+    },
+    {
+      "timestamp": 1642424400000,
+      "prev_index_price": 42692.67,
+      "interest_8h": -0.000004197153858985746,
+      "interest_1h": 0,
+      "index_price": 42567.85
+    },
+    {
+      "timestamp": 1642428000000,
+      "prev_index_price": 42567.85,
+      "interest_8h": -0.000004302939714192367,
+      "interest_1h": -1.0477805736747472e-7,
+      "index_price": 42666.71
+    },
+    {
+      "timestamp": 1642431600000,
+      "prev_index_price": 42666.71,
+      "interest_8h": -1.4986236707478065e-7,
+      "interest_1h": -2.4486370379886932e-8,
+      "index_price": 42678.72
+    },
+    {
+      "timestamp": 1642435200000,
+      "prev_index_price": 42678.72,
+      "interest_8h": -3.048589270381331e-7,
+      "interest_1h": -1.5533518799276954e-7,
+      "index_price": 42491.94
+    },
+    {
+      "timestamp": 1642438800000,
+      "prev_index_price": 42491.94,
+      "interest_8h": -3.445930268975803e-7,
+      "interest_1h": -8.255919459264033e-8,
+      "index_price": 42244.99
+    },
+    {
+      "timestamp": 1642442400000,
+      "prev_index_price": 42244.99,
+      "interest_8h": -3.448140662208573e-7,
+      "interest_1h": 0,
+      "index_price": 42125.15
+    },
+    {
+      "timestamp": 1642446000000,
+      "prev_index_price": 42125.15,
+      "interest_8h": -3.431219899383292e-7,
+      "interest_1h": 1.994912353380014e-9,
+      "index_price": 42200.15
+    },
+    {
+      "timestamp": 1642449600000,
+      "prev_index_price": 42200.15,
+      "interest_8h": -3.660502462512302e-7,
+      "interest_1h": 0,
+      "index_price": 42270.03
+    },
+    {
+      "timestamp": 1642453200000,
+      "prev_index_price": 42270.03,
+      "interest_8h": -3.650814319877678e-7,
+      "interest_1h": 0,
+      "index_price": 42110.58
+    },
+    {
+      "timestamp": 1642456800000,
+      "prev_index_price": 42110.58,
+      "interest_8h": -3.04152877064418e-7,
+      "interest_1h": -4.292987785810677e-8,
+      "index_price": 41743.94
+    },
+    {
+      "timestamp": 1642460400000,
+      "prev_index_price": 41743.94,
+      "interest_8h": -0.000001801671646301151,
+      "interest_1h": -0.0000014885920916817493,
+      "index_price": 42098.55
+    },
+    {
+      "timestamp": 1642464000000,
+      "prev_index_price": 42098.55,
+      "interest_8h": -0.0000017002939221878855,
+      "interest_1h": -6.059628144128379e-8,
+      "index_price": 42226.14
+    },
+    {
+      "timestamp": 1642467600000,
+      "prev_index_price": 42226.14,
+      "interest_8h": -0.0000018647556022601772,
+      "interest_1h": -2.5766552125446035e-7,
+      "index_price": 42390.42
+    },
+    {
+      "timestamp": 1642471200000,
+      "prev_index_price": 42390.42,
+      "interest_8h": -0.000003822656382644006,
+      "interest_1h": -0.0000019741907032938848,
+      "index_price": 42283.91
+    },
+    {
+      "timestamp": 1642474800000,
+      "prev_index_price": 42283.91,
+      "interest_8h": -0.000005318909990146534,
+      "interest_1h": -0.0000014904015807517347,
+      "index_price": 42300.17
+    },
+    {
+      "timestamp": 1642478400000,
+      "prev_index_price": 42300.17,
+      "interest_8h": -0.000005508950403808857,
+      "interest_1h": -1.813619585907765e-7,
+      "index_price": 42059.19
+    },
+    {
+      "timestamp": 1642482000000,
+      "prev_index_price": 42059.19,
+      "interest_8h": -0.000006124707367515688,
+      "interest_1h": -6.357608910358562e-7,
+      "index_price": 42066.2
+    },
+    {
+      "timestamp": 1642485600000,
+      "prev_index_price": 42066.2,
+      "interest_8h": -0.000006028825882275113,
+      "interest_1h": 0,
+      "index_price": 42136.25
+    },
+    {
+      "timestamp": 1642489200000,
+      "prev_index_price": 42136.25,
+      "interest_8h": -0.000004579081836802602,
+      "interest_1h": -2.795290938937378e-10,
+      "index_price": 42250.57
+    },
+    {
+      "timestamp": 1642492800000,
+      "prev_index_price": 42250.57,
+      "interest_8h": -0.000004645596445505647,
+      "interest_1h": -1.1348212671197768e-7,
+      "index_price": 42067.88
+    },
+    {
+      "timestamp": 1642496400000,
+      "prev_index_price": 42067.88,
+      "interest_8h": -0.000006034344243884043,
+      "interest_1h": -0.000001616944827407642,
+      "index_price": 41727.94
+    },
+    {
+      "timestamp": 1642500000000,
+      "prev_index_price": 41727.94,
+      "interest_8h": -0.000004441778784224855,
+      "interest_1h": -3.866748348443126e-7,
+      "index_price": 41920.81
+    },
+    {
+      "timestamp": 1642503600000,
+      "prev_index_price": 41920.81,
+      "interest_8h": -0.0000028973151671524272,
+      "interest_1h": 5.4840415186898154e-8,
+      "index_price": 41954.06
+    },
+    {
+      "timestamp": 1642507200000,
+      "prev_index_price": 41954.06,
+      "interest_8h": -0.0000015372311356977816,
+      "interest_1h": 0.0000011602033437882364,
+      "index_price": 41879.11
+    },
+    {
+      "timestamp": 1642510800000,
+      "prev_index_price": 41879.11,
+      "interest_8h": 2.729168755435041e-7,
+      "interest_1h": 0.0000011693135971262795,
+      "index_price": 41809.22
+    },
+    {
+      "timestamp": 1642514400000,
+      "prev_index_price": 41809.22,
+      "interest_8h": 5.689317906742568e-7,
+      "interest_1h": 2.9326652638901563e-7,
+      "index_price": 41668.07
+    },
+    {
+      "timestamp": 1642518000000,
+      "prev_index_price": 41668.07,
+      "interest_8h": 5.707599717174394e-7,
+      "interest_1h": 0,
+      "index_price": 41455.36
+    },
+    {
+      "timestamp": 1642521600000,
+      "prev_index_price": 41455.36,
+      "interest_8h": 0.0000015500862030921686,
+      "interest_1h": 8.561569763345827e-7,
+      "index_price": 41597.76
+    },
+    {
+      "timestamp": 1642525200000,
+      "prev_index_price": 41597.76,
+      "interest_8h": -0.000006329656878772473,
+      "interest_1h": -0.000009441548641509887,
+      "index_price": 41718.55
+    },
+    {
+      "timestamp": 1642528800000,
+      "prev_index_price": 41718.55,
+      "interest_8h": -0.000005970450999903758,
+      "interest_1h": 0,
+      "index_price": 41505.31
+    },
+    {
+      "timestamp": 1642532400000,
+      "prev_index_price": 41505.31,
+      "interest_8h": -0.00000603155549044248,
+      "interest_1h": -1.4691578848820425e-9,
+      "index_price": 41631.57
+    },
+    {
+      "timestamp": 1642536000000,
+      "prev_index_price": 41631.57,
+      "interest_8h": -0.000007178910916183558,
+      "interest_1h": 0,
+      "index_price": 41712.18
+    },
+    {
+      "timestamp": 1642539600000,
+      "prev_index_price": 41712.18,
+      "interest_8h": -0.000008337430465727764,
+      "interest_1h": 0,
+      "index_price": 41782.38
+    },
+    {
+      "timestamp": 1642543200000,
+      "prev_index_price": 41782.38,
+      "interest_8h": -0.000008598202973941018,
+      "interest_1h": 0,
+      "index_price": 42397.3
+    },
+    {
+      "timestamp": 1642546800000,
+      "prev_index_price": 42397.3,
+      "interest_8h": -0.000008554538167358396,
+      "interest_1h": 0,
+      "index_price": 42496.02
+    },
+    {
+      "timestamp": 1642550400000,
+      "prev_index_price": 42496.02,
+      "interest_8h": -0.000009566879472366176,
+      "interest_1h": -1.2653299278953078e-7,
+      "index_price": 42374.49
+    },
+    {
+      "timestamp": 1642554000000,
+      "prev_index_price": 42374.49,
+      "interest_8h": 0.00000408067758371386,
+      "interest_1h": 0.000004272509061082926,
+      "index_price": 42271.61
+    },
+    {
+      "timestamp": 1642557600000,
+      "prev_index_price": 42271.61,
+      "interest_8h": 0.000004026686721742932,
+      "interest_1h": -3.3744628617417075e-8,
+      "index_price": 42445.09
+    },
+    {
+      "timestamp": 1642561200000,
+      "prev_index_price": 42445.09,
+      "interest_8h": 0.0000012975969529955812,
+      "interest_1h": -0.0000027964097958638737,
+      "index_price": 42345.75
+    },
+    {
+      "timestamp": 1642564800000,
+      "prev_index_price": 42345.75,
+      "interest_8h": -3.500289162083796e-7,
+      "interest_1h": -0.0000016752024664731722,
+      "index_price": 41720.33
+    },
+    {
+      "timestamp": 1642568400000,
+      "prev_index_price": 41720.33,
+      "interest_8h": -0.0000022629879181521807,
+      "interest_1h": -0.0000019095299024757195,
+      "index_price": 41727.45
+    },
+    {
+      "timestamp": 1642572000000,
+      "prev_index_price": 41727.45,
+      "interest_8h": -0.0000036978701026045096,
+      "interest_1h": -0.0000013794307262474198,
+      "index_price": 41780.51
+    },
+    {
+      "timestamp": 1642575600000,
+      "prev_index_price": 41780.51,
+      "interest_8h": -0.000003706477786164442,
+      "interest_1h": 0,
+      "index_price": 41729.45
+    },
+    {
+      "timestamp": 1642579200000,
+      "prev_index_price": 41729.45,
+      "interest_8h": -0.00000489652380081682,
+      "interest_1h": -0.0000013066196306652793,
+      "index_price": 41264.73
+    },
+    {
+      "timestamp": 1642582800000,
+      "prev_index_price": 41264.73,
+      "interest_8h": -0.000009148904897533688,
+      "interest_1h": -2.074081329133631e-9,
+      "index_price": 41380.91
+    },
+    {
+      "timestamp": 1642586400000,
+      "prev_index_price": 41380.91,
+      "interest_8h": -0.000009354791120198784,
+      "interest_1h": -1.9205878839971486e-7,
+      "index_price": 41600.09
+    },
+    {
+      "timestamp": 1642590000000,
+      "prev_index_price": 41600.09,
+      "interest_8h": -0.000006537819175240787,
+      "interest_1h": 0,
+      "index_price": 41510.72
+    },
+    {
+      "timestamp": 1642593600000,
+      "prev_index_price": 41510.72,
+      "interest_8h": -0.000004790798929132175,
+      "interest_1h": 0,
+      "index_price": 42054.79
+    },
+    {
+      "timestamp": 1642597200000,
+      "prev_index_price": 42054.79,
+      "interest_8h": -0.000002881760744614338,
+      "interest_1h": 0,
+      "index_price": 42121.66
+    },
+    {
+      "timestamp": 1642600800000,
+      "prev_index_price": 42121.66,
+      "interest_8h": -0.0000015042446791088716,
+      "interest_1h": 0,
+      "index_price": 42215.37
+    },
+    {
+      "timestamp": 1642604400000,
+      "prev_index_price": 42215.37,
+      "interest_8h": -0.0000015024020251642855,
+      "interest_1h": 0,
+      "index_price": 42504.55
+    },
+    {
+      "timestamp": 1642608000000,
+      "prev_index_price": 42504.55,
+      "interest_8h": -0.000003707104244452933,
+      "interest_1h": -0.000003619067157498294,
+      "index_price": 42000.62
+    },
+    {
+      "timestamp": 1642611600000,
+      "prev_index_price": 42000.62,
+      "interest_8h": -0.000010866951876109495,
+      "interest_1h": -0.000007258597742676314,
+      "index_price": 41923.63
+    },
+    {
+      "timestamp": 1642615200000,
+      "prev_index_price": 41923.63,
+      "interest_8h": -0.00003556805034792413,
+      "interest_1h": -0.000025029780114526797,
+      "index_price": 42179.39
+    },
+    {
+      "timestamp": 1642618800000,
+      "prev_index_price": 42179.39,
+      "interest_8h": -0.00000780807744676445,
+      "interest_1h": 0.000028129498637120802,
+      "index_price": 42012.49
+    },
+    {
+      "timestamp": 1642622400000,
+      "prev_index_price": 42012.49,
+      "interest_8h": -0.000007910415847458562,
+      "interest_1h": 0,
+      "index_price": 41900.79
+    },
+    {
+      "timestamp": 1642626000000,
+      "prev_index_price": 41900.79,
+      "interest_8h": -0.000007961298508494809,
+      "interest_1h": -3.810370282092231e-8,
+      "index_price": 41629.91
+    },
+    {
+      "timestamp": 1642629600000,
+      "prev_index_price": 41629.91,
+      "interest_8h": -0.00000864081538951708,
+      "interest_1h": -6.526268306617183e-7,
+      "index_price": 41725.02
+    },
+    {
+      "timestamp": 1642633200000,
+      "prev_index_price": 41725.02,
+      "interest_8h": -0.000009579798581816995,
+      "interest_1h": -8.63657315993863e-7,
+      "index_price": 41993.74
+    },
+    {
+      "timestamp": 1642636800000,
+      "prev_index_price": 41993.74,
+      "interest_8h": -0.0000058900615457608316,
+      "interest_1h": 0,
+      "index_price": 41676.4
+    },
+    {
+      "timestamp": 1642640400000,
+      "prev_index_price": 41676.4,
+      "interest_8h": 0.0000013660275767617685,
+      "interest_1h": 0,
+      "index_price": 41849.46
+    },
+    {
+      "timestamp": 1642644000000,
+      "prev_index_price": 41849.46,
+      "interest_8h": 0.000026556838398198347,
+      "interest_1h": 0,
+      "index_price": 41783.17
+    },
+    {
+      "timestamp": 1642647600000,
+      "prev_index_price": 41783.17,
+      "interest_8h": -0.0000015664373657638802,
+      "interest_1h": 0,
+      "index_price": 42009.15
+    },
+    {
+      "timestamp": 1642651200000,
+      "prev_index_price": 42009.15,
+      "interest_8h": -0.000001561861745667891,
+      "interest_1h": 0,
+      "index_price": 41949.51
+    },
+    {
+      "timestamp": 1642654800000,
+      "prev_index_price": 41949.51,
+      "interest_8h": -0.000001514315484991089,
+      "interest_1h": 0,
+      "index_price": 41915.52
+    },
+    {
+      "timestamp": 1642658400000,
+      "prev_index_price": 41915.52,
+      "interest_8h": -0.0000010261703434394988,
+      "interest_1h": -1.6325648025029142e-7,
+      "index_price": 41906.34
+    },
+    {
+      "timestamp": 1642662000000,
+      "prev_index_price": 41906.34,
+      "interest_8h": -1.6356534529321224e-7,
+      "interest_1h": 0,
+      "index_price": 42033.54
+    },
+    {
+      "timestamp": 1642665600000,
+      "prev_index_price": 42033.54,
+      "interest_8h": -1.4005042537544674e-7,
+      "interest_1h": 2.2465587927593326e-8,
+      "index_price": 42070.3
+    },
+    {
+      "timestamp": 1642669200000,
+      "prev_index_price": 42070.3,
+      "interest_8h": -0.0000010185090393550389,
+      "interest_1h": -8.825096244133579e-7,
+      "index_price": 41972.78
+    },
+    {
+      "timestamp": 1642672800000,
+      "prev_index_price": 41972.78,
+      "interest_8h": -0.0000011286261380676913,
+      "interest_1h": -1.1244961572822776e-7,
+      "index_price": 42065.7
+    },
+    {
+      "timestamp": 1642676400000,
+      "prev_index_price": 42065.7,
+      "interest_8h": -0.0000011180071018623729,
+      "interest_1h": 1.701481471757709e-8,
+      "index_price": 42121.69
+    },
+    {
+      "timestamp": 1642680000000,
+      "prev_index_price": 42121.69,
+      "interest_8h": -0.0000011163646534475002,
+      "interest_1h": 0,
+      "index_price": 42149.36
+    },
+    {
+      "timestamp": 1642683600000,
+      "prev_index_price": 42149.36,
+      "interest_8h": -0.0000013943536224463693,
+      "interest_1h": -2.8020891963496797e-7,
+      "index_price": 42057.59
+    },
+    {
+      "timestamp": 1642687200000,
+      "prev_index_price": 42057.59,
+      "interest_8h": -0.000010910428412769619,
+      "interest_1h": -0.00000971568700085302,
+      "index_price": 42394.97
+    },
+    {
+      "timestamp": 1642690800000,
+      "prev_index_price": 42394.97,
+      "interest_8h": -0.000005738170744470841,
+      "interest_1h": 0.0000052522531602633705,
+      "index_price": 42999.61
+    },
+    {
+      "timestamp": 1642694400000,
+      "prev_index_price": 42999.61,
+      "interest_8h": 0.00002904448045835394,
+      "interest_1h": 0.000035594535202904224,
+      "index_price": 43314.25
+    },
+    {
+      "timestamp": 1642698000000,
+      "prev_index_price": 43314.25,
+      "interest_8h": 0.00003128962810416762,
+      "interest_1h": 0.000001461440066691378,
+      "index_price": 43292.65
+    },
+    {
+      "timestamp": 1642701600000,
+      "prev_index_price": 43292.65,
+      "interest_8h": 0.00003193759493085659,
+      "interest_1h": 4.791425188114128e-7,
+      "index_price": 43032.25
+    },
+    {
+      "timestamp": 1642705200000,
+      "prev_index_price": 43032.25,
+      "interest_8h": 0.000027169737647059832,
+      "interest_1h": -0.000004896948333559561,
+      "index_price": 42894.88
+    },
+    {
+      "timestamp": 1642708800000,
+      "prev_index_price": 42894.88,
+      "interest_8h": 0.00002522082741238862,
+      "interest_1h": -0.000002001545389046651,
+      "index_price": 42925.72
+    },
+    {
+      "timestamp": 1642712400000,
+      "prev_index_price": 42925.72,
+      "interest_8h": 0.000019128542302454296,
+      "interest_1h": -0.000006447363222789805,
+      "index_price": 42720.65
+    },
+    {
+      "timestamp": 1642716000000,
+      "prev_index_price": 42720.65,
+      "interest_8h": 0.000029070184196462192,
+      "interest_1h": -5.471117234080298e-9,
+      "index_price": 41329.16
+    },
+    {
+      "timestamp": 1642719600000,
+      "prev_index_price": 41329.16,
+      "interest_8h": 0.0000016937134230241784,
+      "interest_1h": -0.000021591231996133764,
+      "index_price": 41162.56
+    },
+    {
+      "timestamp": 1642723200000,
+      "prev_index_price": 41162.56,
+      "interest_8h": -0.00003486802943672177,
+      "interest_1h": -6.834215139786524e-7,
+      "index_price": 40699.9
+    },
+    {
+      "timestamp": 1642726800000,
+      "prev_index_price": 40699.9,
+      "interest_8h": -0.00003654537730673686,
+      "interest_1h": -2.200091431949918e-7,
+      "index_price": 40913.14
+    },
+    {
+      "timestamp": 1642730400000,
+      "prev_index_price": 40913.14,
+      "interest_8h": -0.000043898186268508124,
+      "interest_1h": -0.00000674690610941897,
+      "index_price": 39755.28
+    },
+    {
+      "timestamp": 1642734000000,
+      "prev_index_price": 39755.28,
+      "interest_8h": -0.00004422612855727858,
+      "interest_1h": -0.00000495785512123294,
+      "index_price": 39847.25
+    },
+    {
+      "timestamp": 1642737600000,
+      "prev_index_price": 39847.25,
+      "interest_8h": -0.00006542001891921105,
+      "interest_1h": -0.000021503766070198194,
+      "index_price": 38464.03
+    },
+    {
+      "timestamp": 1642741200000,
+      "prev_index_price": 38464.03,
+      "interest_8h": -0.00007932002489733275,
+      "interest_1h": -0.00001857277715728129,
+      "index_price": 38847.55
+    },
+    {
+      "timestamp": 1642744800000,
+      "prev_index_price": 38847.55,
+      "interest_8h": -0.00009060026210500264,
+      "interest_1h": -0.00001303723710315656,
+      "index_price": 38923.37
+    },
+    {
+      "timestamp": 1642748400000,
+      "prev_index_price": 38923.37,
+      "interest_8h": -0.000052618966665573905,
+      "interest_1h": 0.000015235418777842694,
+      "index_price": 38699.19
+    },
+    {
+      "timestamp": 1642752000000,
+      "prev_index_price": 38699.19,
+      "interest_8h": -0.00006624341311053808,
+      "interest_1h": -0.000014159578190675857,
+      "index_price": 39138.08
+    },
+    {
+      "timestamp": 1642755600000,
+      "prev_index_price": 39138.08,
+      "interest_8h": -0.00008675358318659593,
+      "interest_1h": -0.00001949964522270938,
+      "index_price": 39168.3
+    },
+    {
+      "timestamp": 1642759200000,
+      "prev_index_price": 39168.3,
+      "interest_8h": -0.0000831863644000831,
+      "interest_1h": -0.0000053637566148417785,
+      "index_price": 38981.7
+    },
+    {
+      "timestamp": 1642762800000,
+      "prev_index_price": 38981.7,
+      "interest_8h": -0.00007934467791264459,
+      "interest_1h": -9.148805194210188e-7,
+      "index_price": 38978.6
+    },
+    {
+      "timestamp": 1642766400000,
+      "prev_index_price": 38978.6,
+      "interest_8h": -0.00021245003191078013,
+      "interest_1h": -0.00015871216946427191,
+      "index_price": 38895.66
+    },
+    {
+      "timestamp": 1642770000000,
+      "prev_index_price": 38895.66,
+      "interest_8h": -0.00019676579360322527,
+      "interest_1h": -9.565963673067358e-7,
+      "index_price": 38173.34
+    },
+    {
+      "timestamp": 1642773600000,
+      "prev_index_price": 38173.34,
+      "interest_8h": -0.0001840137873897105,
+      "interest_1h": 7.194441851535785e-8,
+      "index_price": 38486.21
+    },
+    {
+      "timestamp": 1642777200000,
+      "prev_index_price": 38486.21,
+      "interest_8h": -0.00019948340705504532,
+      "interest_1h": -0.0000010656716909369807,
+      "index_price": 38416.2
+    },
+    {
+      "timestamp": 1642780800000,
+      "prev_index_price": 38416.2,
+      "interest_8h": -0.00018912227851401427,
+      "interest_1h": -0.000001973329440614635,
+      "index_price": 38862.99
+    },
+    {
+      "timestamp": 1642784400000,
+      "prev_index_price": 38862.99,
+      "interest_8h": -0.00016937145439347925,
+      "interest_1h": 3.8082267647555803e-7,
+      "index_price": 38722.45
+    },
+    {
+      "timestamp": 1642788000000,
+      "prev_index_price": 38722.45,
+      "interest_8h": -0.0001636343187156609,
+      "interest_1h": -4.0952305089050493e-7,
+      "index_price": 38376.89
+    },
+    {
+      "timestamp": 1642791600000,
+      "prev_index_price": 38376.89,
+      "interest_8h": -0.00016186470195516734,
+      "interest_1h": 8.314066594903878e-7,
+      "index_price": 38290.51
+    },
+    {
+      "timestamp": 1642795200000,
+      "prev_index_price": 38290.51,
+      "interest_8h": -0.000003145824424294889,
+      "interest_1h": 0,
+      "index_price": 37977.8
+    },
+    {
+      "timestamp": 1642798800000,
+      "prev_index_price": 37977.8,
+      "interest_8h": 0.000009818638031766748,
+      "interest_1h": 0.000011905909454327516,
+      "index_price": 38380.76
+    },
+    {
+      "timestamp": 1642802400000,
+      "prev_index_price": 38380.76,
+      "interest_8h": 0.0000027301434565403067,
+      "interest_1h": -0.000007077073336922793,
+      "index_price": 36695.36
+    },
+    {
+      "timestamp": 1642806000000,
+      "prev_index_price": 36695.36,
+      "interest_8h": -0.000125525223073074,
+      "interest_1h": -0.00012352147359118715,
+      "index_price": 36113.13
+    },
+    {
+      "timestamp": 1642809600000,
+      "prev_index_price": 36113.13,
+      "interest_8h": -0.00016845956941771202,
+      "interest_1h": -0.00004039484236929014,
+      "index_price": 36460.41
+    },
+    {
+      "timestamp": 1642813200000,
+      "prev_index_price": 36460.41,
+      "interest_8h": -0.00018655418922396968,
+      "interest_1h": -0.000017251019954454763,
+      "index_price": 36499.35
+    },
+    {
+      "timestamp": 1642816800000,
+      "prev_index_price": 36499.35,
+      "interest_8h": -0.0001848931166680923,
+      "interest_1h": -3.924762670440342e-7,
+      "index_price": 36504.16
+    },
+    {
+      "timestamp": 1642820400000,
+      "prev_index_price": 36504.16,
+      "interest_8h": -0.00018724047037577146,
+      "interest_1h": -0.0000018437568782380153,
+      "index_price": 36498.89
+    },
+    {
+      "timestamp": 1642824000000,
+      "prev_index_price": 36498.89,
+      "interest_8h": -0.00019176151743836666,
+      "interest_1h": -0.000005814594568247533,
+      "index_price": 36341.99
+    },
+    {
+      "timestamp": 1642827600000,
+      "prev_index_price": 36341.99,
+      "interest_8h": -0.00022711699206923346,
+      "interest_1h": -0.000020157730426082984,
+      "index_price": 36292.05
+    },
+    {
+      "timestamp": 1642831200000,
+      "prev_index_price": 36292.05,
+      "interest_8h": -0.0002249378325038544,
+      "interest_1h": -0.000014400414265767458,
+      "index_price": 35744.12
+    },
+    {
+      "timestamp": 1642834800000,
+      "prev_index_price": 35744.12,
+      "interest_8h": -0.00012014720661612869,
+      "interest_1h": -0.000020132141543911787,
+      "index_price": 35714.74
+    },
+    {
+      "timestamp": 1642838400000,
+      "prev_index_price": 35714.74,
+      "interest_8h": -0.00009853368125820844,
+      "interest_1h": -0.000017645961519676895,
+      "index_price": 35414.93
+    },
+    {
+      "timestamp": 1642842000000,
+      "prev_index_price": 35414.93,
+      "interest_8h": -0.0001329395921863053,
+      "interest_1h": -0.00005003729166277643,
+      "index_price": 35605.45
+    },
+    {
+      "timestamp": 1642845600000,
+      "prev_index_price": 35605.45,
+      "interest_8h": -0.00014555665908619017,
+      "interest_1h": -0.000012672218763691139,
+      "index_price": 34825.12
+    },
+    {
+      "timestamp": 1642849200000,
+      "prev_index_price": 34825.12,
+      "interest_8h": -0.00021534077369032815,
+      "interest_1h": -0.00006836294887245977,
+      "index_price": 35492.16
+    },
+    {
+      "timestamp": 1642852800000,
+      "prev_index_price": 35492.16,
+      "interest_8h": -0.0002444780804490504,
+      "interest_1h": -0.00003501421818219627,
+      "index_price": 35416.12
+    },
+    {
+      "timestamp": 1642856400000,
+      "prev_index_price": 35416.12,
+      "interest_8h": -0.0002308784831153496,
+      "interest_1h": -0.000006700764485074998,
+      "index_price": 35790.5
+    },
+    {
+      "timestamp": 1642860000000,
+      "prev_index_price": 35790.5,
+      "interest_8h": -0.0002610153127627806,
+      "interest_1h": -0.000047867625216514866,
+      "index_price": 35598.37
+    },
+    {
+      "timestamp": 1642863600000,
+      "prev_index_price": 35598.37,
+      "interest_8h": -0.0002304422649104916,
+      "interest_1h": 0.00001020964817538011,
+      "index_price": 35026.13
+    },
+    {
+      "timestamp": 1642867200000,
+      "prev_index_price": 35026.13,
+      "interest_8h": -0.00018850158159386374,
+      "interest_1h": 0.000022261281098487405,
+      "index_price": 34848.58
+    },
+    {
+      "timestamp": 1642870800000,
+      "prev_index_price": 34848.58,
+      "interest_8h": -0.0001914392537808068,
+      "interest_1h": -0.000051124079075725027,
+      "index_price": 35100.04
+    },
+    {
+      "timestamp": 1642874400000,
+      "prev_index_price": 35100.04,
+      "interest_8h": -0.00018970724411252238,
+      "interest_1h": -0.000014971714790786567,
+      "index_price": 34616.33
+    },
+    {
+      "timestamp": 1642878000000,
+      "prev_index_price": 34616.33,
+      "interest_8h": -0.00012585351069295384,
+      "interest_1h": -0.000002131064017998355,
+      "index_price": 34396.59
+    },
+    {
+      "timestamp": 1642881600000,
+      "prev_index_price": 34396.59,
+      "interest_8h": -0.00009613239965340607,
+      "interest_1h": -0.000005329749226285817,
+      "index_price": 34533.41
+    },
+    {
+      "timestamp": 1642885200000,
+      "prev_index_price": 34533.41,
+      "interest_8h": -0.00009982832593724011,
+      "interest_1h": -0.000009482921902702139,
+      "index_price": 35309.32
+    },
+    {
+      "timestamp": 1642888800000,
+      "prev_index_price": 35309.32,
+      "interest_8h": -0.00005331589246583275,
+      "interest_1h": -0.0000012491215307895459,
+      "index_price": 35400.61
+    },
+    {
+      "timestamp": 1642892400000,
+      "prev_index_price": 35400.61,
+      "interest_8h": -0.00004678712927372444,
+      "interest_1h": 0.000015885285165924658,
+      "index_price": 34880.82
+    },
+    {
+      "timestamp": 1642896000000,
+      "prev_index_price": 34880.82,
+      "interest_8h": -0.00006869839895897305,
+      "interest_1h": 0,
+      "index_price": 35071.2
+    },
+    {
+      "timestamp": 1642899600000,
+      "prev_index_price": 35071.2,
+      "interest_8h": -0.000022267778179465245,
+      "interest_1h": -0.000004562893521004716,
+      "index_price": 35423.35
+    },
+    {
+      "timestamp": 1642903200000,
+      "prev_index_price": 35423.35,
+      "interest_8h": -0.000025165927564169764,
+      "interest_1h": -0.00001838935957635694,
+      "index_price": 35334.69
+    },
+    {
+      "timestamp": 1642906800000,
+      "prev_index_price": 35334.69,
+      "interest_8h": -0.00002592950877802074,
+      "interest_1h": -0.000003123801316528611,
+      "index_price": 34885.87
+    },
+    {
+      "timestamp": 1642910400000,
+      "prev_index_price": 34885.87,
+      "interest_8h": -0.00002079340932430582,
+      "interest_1h": -1.1284984745387363e-7,
+      "index_price": 35069.27
+    },
+    {
+      "timestamp": 1642914000000,
+      "prev_index_price": 35069.27,
+      "interest_8h": -0.000018526210716151496,
+      "interest_1h": -0.000006914266571008754,
+      "index_price": 35243.29
+    },
+    {
+      "timestamp": 1642917600000,
+      "prev_index_price": 35243.29,
+      "interest_8h": -0.000025361928527788315,
+      "interest_1h": -0.000008071352596230763,
+      "index_price": 35470.31
+    },
+    {
+      "timestamp": 1642921200000,
+      "prev_index_price": 35470.31,
+      "interest_8h": -0.00004452512237206149,
+      "interest_1h": -0.000003881833665421675,
+      "index_price": 35299.46
+    },
+    {
+      "timestamp": 1642924800000,
+      "prev_index_price": 35299.46,
+      "interest_8h": -0.000051595751448583835,
+      "interest_1h": -0.000006872047665907741,
+      "index_price": 35608.4
+    },
+    {
+      "timestamp": 1642928400000,
+      "prev_index_price": 35608.4,
+      "interest_8h": -0.00004848678809407835,
+      "interest_1h": -9.889334726190873e-7,
+      "index_price": 35845.48
+    },
+    {
+      "timestamp": 1642932000000,
+      "prev_index_price": 35845.48,
+      "interest_8h": -0.00003338763444354204,
+      "interest_1h": -0.000003412040920434525,
+      "index_price": 35901.12
+    },
+    {
+      "timestamp": 1642935600000,
+      "prev_index_price": 35901.12,
+      "interest_8h": -0.000027407658808556286,
+      "interest_1h": 0.0000025436975463389213,
+      "index_price": 35921.24
+    },
+    {
+      "timestamp": 1642939200000,
+      "prev_index_price": 35921.24,
+      "interest_8h": -0.000030608778258333486,
+      "interest_1h": -0.0000032474998900671588,
+      "index_price": 35703.3
+    },
+    {
+      "timestamp": 1642942800000,
+      "prev_index_price": 35703.3,
+      "interest_8h": -0.000024286779490498716,
+      "interest_1h": -4.808872599859588e-7,
+      "index_price": 35820.98
+    },
+    {
+      "timestamp": 1642946400000,
+      "prev_index_price": 35820.98,
+      "interest_8h": -0.000036592906531470785,
+      "interest_1h": -0.00002047345296790935,
+      "index_price": 36009.46
+    },
+    {
+      "timestamp": 1642950000000,
+      "prev_index_price": 36009.46,
+      "interest_8h": -0.00003112232383345122,
+      "interest_1h": 0.0000014599758664275118,
+      "index_price": 35337.46
+    },
+    {
+      "timestamp": 1642953600000,
+      "prev_index_price": 35337.46,
+      "interest_8h": -0.000024719414840646198,
+      "interest_1h": -2.549461289748e-7,
+      "index_price": 35302.17
+    },
+    {
+      "timestamp": 1642957200000,
+      "prev_index_price": 35302.17,
+      "interest_8h": -0.000024903049415319776,
+      "interest_1h": -9.991931328341627e-7,
+      "index_price": 35227.34
+    },
+    {
+      "timestamp": 1642960800000,
+      "prev_index_price": 35227.34,
+      "interest_8h": -0.000021549730039070116,
+      "interest_1h": -2.4886812874899642e-8,
+      "index_price": 35353.42
+    },
+    {
+      "timestamp": 1642964400000,
+      "prev_index_price": 35353.42,
+      "interest_8h": -0.00005603341811613367,
+      "interest_1h": -0.00003142181438223088,
+      "index_price": 34968.6
+    },
+    {
+      "timestamp": 1642968000000,
+      "prev_index_price": 34968.6,
+      "interest_8h": -0.00001581013737831104,
+      "interest_1h": 0.00003590122538614112,
+      "index_price": 34793.84
+    },
+    {
+      "timestamp": 1642971600000,
+      "prev_index_price": 34793.84,
+      "interest_8h": -0.000015931670766230388,
+      "interest_1h": -5.360694455868605e-7,
+      "index_price": 35309.36
+    },
+    {
+      "timestamp": 1642975200000,
+      "prev_index_price": 35309.36,
+      "interest_8h": 0.000004565280415424213,
+      "interest_1h": -3.916119725527592e-10,
+      "index_price": 35365.59
+    },
+    {
+      "timestamp": 1642978800000,
+      "prev_index_price": 35365.59,
+      "interest_8h": 0.000009787779009227921,
+      "interest_1h": 0.000006745790558865868,
+      "index_price": 35527.27
+    },
+    {
+      "timestamp": 1642982400000,
+      "prev_index_price": 35527.27,
+      "interest_8h": 0.000008007423731678236,
+      "interest_1h": -0.0000020381860713187247,
+      "index_price": 36278
+    },
+    {
+      "timestamp": 1642986000000,
+      "prev_index_price": 36278,
+      "interest_8h": 0.000005622075909325452,
+      "interest_1h": -0.000003465824605159056,
+      "index_price": 35871.3
+    },
+    {
+      "timestamp": 1642989600000,
+      "prev_index_price": 35871.3,
+      "interest_8h": -0.0000015199541008190931,
+      "interest_1h": -0.0000072924092597942624,
+      "index_price": 35678.45
+    },
+    {
+      "timestamp": 1642993200000,
+      "prev_index_price": 35678.45,
+      "interest_8h": 0.00002941059443541551,
+      "interest_1h": -1.6915116018589822e-7,
+      "index_price": 35216.3
+    },
+    {
+      "timestamp": 1642996800000,
+      "prev_index_price": 35216.3,
+      "interest_8h": -0.00000812454624876658,
+      "interest_1h": -0.000001686585579681424,
+      "index_price": 35363.1
+    },
+    {
+      "timestamp": 1643000400000,
+      "prev_index_price": 35363.1,
+      "interest_8h": -0.000008186649507486705,
+      "interest_1h": -4.864779594883125e-7,
+      "index_price": 35125.77
+    },
+    {
+      "timestamp": 1643004000000,
+      "prev_index_price": 35125.77,
+      "interest_8h": -0.00000809159881806247,
+      "interest_1h": 1.0696535470778471e-7,
+      "index_price": 35198.31
+    },
+    {
+      "timestamp": 1643007600000,
+      "prev_index_price": 35198.31,
+      "interest_8h": -0.000015030077033864629,
+      "interest_1h": -1.2369984125353402e-7,
+      "index_price": 35280.8
+    },
+    {
+      "timestamp": 1643011200000,
+      "prev_index_price": 35280.8,
+      "interest_8h": -0.000012441690581336002,
+      "interest_1h": 8.02063173350887e-7,
+      "index_price": 34890.36
+    },
+    {
+      "timestamp": 1643014800000,
+      "prev_index_price": 34890.36,
+      "interest_8h": -0.0000158152009531151,
+      "interest_1h": -0.000006749952184208329,
+      "index_price": 34968.41
+    },
+    {
+      "timestamp": 1643018400000,
+      "prev_index_price": 34968.41,
+      "interest_8h": -0.000008790104300887113,
+      "interest_1h": -3.07744427511067e-7,
+      "index_price": 34509.06
+    },
+    {
+      "timestamp": 1643022000000,
+      "prev_index_price": 34509.06,
+      "interest_8h": -0.000009415382691353796,
+      "interest_1h": -8.872938160437165e-7,
+      "index_price": 33285.03
+    },
+    {
+      "timestamp": 1643025600000,
+      "prev_index_price": 33285.03,
+      "interest_8h": -0.00002907845540511212,
+      "interest_1h": -0.000020064746880392595,
+      "index_price": 33696.32
+    },
+    {
+      "timestamp": 1643029200000,
+      "prev_index_price": 33696.32,
+      "interest_8h": -0.000036911238044996596,
+      "interest_1h": -0.000008164785205102356,
+      "index_price": 33089.73
+    },
+    {
+      "timestamp": 1643032800000,
+      "prev_index_price": 33089.73,
+      "interest_8h": -0.00005041275269807891,
+      "interest_1h": -0.000012520270740026093,
+      "index_price": 33346.92
+    },
+    {
+      "timestamp": 1643036400000,
+      "prev_index_price": 33346.92,
+      "interest_8h": -0.00007300810216348856,
+      "interest_1h": -0.000021362332310588762,
+      "index_price": 33641.36
+    },
+    {
+      "timestamp": 1643040000000,
+      "prev_index_price": 33641.36,
+      "interest_8h": -0.00008364604047329574,
+      "interest_1h": -0.00001027136184303044,
+      "index_price": 34244.59
+    },
+    {
+      "timestamp": 1643043600000,
+      "prev_index_price": 34244.59,
+      "interest_8h": -0.00009968178949148965,
+      "interest_1h": -0.000022151153315936236,
+      "index_price": 34491.81
+    },
+    {
+      "timestamp": 1643047200000,
+      "prev_index_price": 34491.81,
+      "interest_8h": -0.00015489043588935494,
+      "interest_1h": -0.000056787783218378245,
+      "index_price": 35405.8
+    },
+    {
+      "timestamp": 1643050800000,
+      "prev_index_price": 35405.8,
+      "interest_8h": -0.00016774572402421484,
+      "interest_1h": -0.000020428702728129984,
+      "index_price": 36207.86
+    },
+    {
+      "timestamp": 1643054400000,
+      "prev_index_price": 36207.86,
+      "interest_8h": -0.00015672156291566638,
+      "interest_1h": -0.000007753572808422304,
+      "index_price": 36107.82
+    },
+    {
+      "timestamp": 1643058000000,
+      "prev_index_price": 36107.82,
+      "interest_8h": -0.0001519126508008923,
+      "interest_1h": -0.000006580147956760417,
+      "index_price": 37229.84
+    },
+    {
+      "timestamp": 1643061600000,
+      "prev_index_price": 37229.84,
+      "interest_8h": -0.00015816855895580347,
+      "interest_1h": -0.000019783828364163525,
+      "index_price": 36829.28
+    },
+    {
+      "timestamp": 1643065200000,
+      "prev_index_price": 36829.28,
+      "interest_8h": -0.00013809154664258026,
+      "interest_1h": -5.4110009342684966e-8,
+      "index_price": 36403.67
+    },
+    {
+      "timestamp": 1643068800000,
+      "prev_index_price": 36403.67,
+      "interest_8h": -0.00013011297610710375,
+      "interest_1h": -8.736525537980378e-10,
+      "index_price": 36701.44
+    },
+    {
+      "timestamp": 1643072400000,
+      "prev_index_price": 36701.44,
+      "interest_8h": -0.00010875412307211688,
+      "interest_1h": -4.513506245457639e-8,
+      "index_price": 36058.15
+    },
+    {
+      "timestamp": 1643076000000,
+      "prev_index_price": 36058.15,
+      "interest_8h": -0.00005337368535200673,
+      "interest_1h": 0,
+      "index_price": 36141.07
+    },
+    {
+      "timestamp": 1643079600000,
+      "prev_index_price": 36141.07,
+      "interest_8h": -0.00003371180714736437,
+      "interest_1h": -2.047244840217325e-8,
+      "index_price": 36341.43
+    },
+    {
+      "timestamp": 1643083200000,
+      "prev_index_price": 36341.43,
+      "interest_8h": -0.0000277783849316294,
+      "interest_1h": -0.0000019041115437836105,
+      "index_price": 36451.47
+    },
+    {
+      "timestamp": 1643086800000,
+      "prev_index_price": 36451.47,
+      "interest_8h": -0.00002403471738450117,
+      "interest_1h": -0.0000021322322767212637,
+      "index_price": 35971.52
+    },
+    {
+      "timestamp": 1643090400000,
+      "prev_index_price": 35971.52,
+      "interest_8h": -0.000004324595647441093,
+      "interest_1h": -1.1666058253057652e-7,
+      "index_price": 36074.03
+    },
+    {
+      "timestamp": 1643094000000,
+      "prev_index_price": 36074.03,
+      "interest_8h": -0.000004259332319275112,
+      "interest_1h": -3.806165317840396e-8,
+      "index_price": 35863.32
+    },
+    {
+      "timestamp": 1643097600000,
+      "prev_index_price": 35863.32,
+      "interest_8h": -0.000004399237101374806,
+      "interest_1h": -1.0331761494540395e-7,
+      "index_price": 36072.44
+    },
+    {
+      "timestamp": 1643101200000,
+      "prev_index_price": 36072.44,
+      "interest_8h": -0.000005722139534333629,
+      "interest_1h": -0.0000014449588277545179,
+      "index_price": 36093.27
+    },
+    {
+      "timestamp": 1643104800000,
+      "prev_index_price": 36093.27,
+      "interest_8h": 0.00010412132529979212,
+      "interest_1h": 0.00010971135951763385,
+      "index_price": 36427.03
+    },
+    {
+      "timestamp": 1643108400000,
+      "prev_index_price": 36427.03,
+      "interest_8h": 0.00003256566435650363,
+      "interest_1h": -0.00007232343103707815,
+      "index_price": 36462.78
+    },
+    {
+      "timestamp": 1643112000000,
+      "prev_index_price": 36462.78,
+      "interest_8h": 0.00003066470931298781,
+      "interest_1h": -0.000003910652317409947,
+      "index_price": 36433.62
+    },
+    {
+      "timestamp": 1643115600000,
+      "prev_index_price": 36433.62,
+      "interest_8h": -0.000029347893336901142,
+      "interest_1h": -0.00006250578559801536,
+      "index_price": 36554.28
+    },
+    {
+      "timestamp": 1643119200000,
+      "prev_index_price": 36554.28,
+      "interest_8h": -0.000023090986381013822,
+      "interest_1h": 0.000006306401692531313,
+      "index_price": 36534.22
+    },
+    {
+      "timestamp": 1643122800000,
+      "prev_index_price": 36534.22,
+      "interest_8h": -0.00007193524077981545,
+      "interest_1h": -0.00004993393630469873,
+      "index_price": 36307.54
+    },
+    {
+      "timestamp": 1643126400000,
+      "prev_index_price": 36307.54,
+      "interest_8h": -0.00012141269343888567,
+      "interest_1h": -0.00004948232625513918,
+      "index_price": 36565.76
+    },
+    {
+      "timestamp": 1643130000000,
+      "prev_index_price": 36565.76,
+      "interest_8h": -0.00012132408010939139,
+      "interest_1h": -0.0000013039190181384002,
+      "index_price": 36861.29
+    },
+    {
+      "timestamp": 1643133600000,
+      "prev_index_price": 36861.29,
+      "interest_8h": -0.00015935074250314932,
+      "interest_1h": 0.00007470116589131959,
+      "index_price": 37305.41
+    },
+    {
+      "timestamp": 1643137200000,
+      "prev_index_price": 37305.41,
+      "interest_8h": -0.00010792195040906402,
+      "interest_1h": -0.000021290116219889104,
+      "index_price": 37350.82
+    },
+    {
+      "timestamp": 1643140800000,
+      "prev_index_price": 37350.82,
+      "interest_8h": -0.00011221447710546732,
+      "interest_1h": -0.000008494964246773406,
+      "index_price": 37101.8
+    },
+    {
+      "timestamp": 1643144400000,
+      "prev_index_price": 37101.8,
+      "interest_8h": -0.00005444218906681413,
+      "interest_1h": -0.0000046373073282047354,
+      "index_price": 36884.47
+    },
+    {
+      "timestamp": 1643148000000,
+      "prev_index_price": 36884.47,
+      "interest_8h": -0.00006166908264692291,
+      "interest_1h": -9.629733369909387e-7,
+      "index_price": 36576.26
+    },
+    {
+      "timestamp": 1643151600000,
+      "prev_index_price": 36576.26,
+      "interest_8h": -0.000011811436727131949,
+      "interest_1h": -1.5020574061381134e-7,
+      "index_price": 36785.9
+    },
+    {
+      "timestamp": 1643155200000,
+      "prev_index_price": 36785.9,
+      "interest_8h": 0.00003722994529264433,
+      "interest_1h": -7.13128019795034e-7,
+      "index_price": 36981.66
+    },
+    {
+      "timestamp": 1643158800000,
+      "prev_index_price": 36981.66,
+      "interest_8h": 0.000041089146105013964,
+      "interest_1h": 0.0000022511725214024413,
+      "index_price": 36658.48
+    },
+    {
+      "timestamp": 1643162400000,
+      "prev_index_price": 36658.48,
+      "interest_8h": -0.00003374874855727556,
+      "interest_1h": 2.635909657814567e-7,
+      "index_price": 36874.21
+    },
+    {
+      "timestamp": 1643166000000,
+      "prev_index_price": 36874.21,
+      "interest_8h": -0.00001615422783679191,
+      "interest_1h": -0.0000036334666089986836,
+      "index_price": 36851.69
+    },
+    {
+      "timestamp": 1643169600000,
+      "prev_index_price": 36851.69,
+      "interest_8h": -0.000007691528518504492,
+      "interest_1h": -8.276792552354593e-8,
+      "index_price": 37421.97
+    },
+    {
+      "timestamp": 1643173200000,
+      "prev_index_price": 37421.97,
+      "interest_8h": -0.000007116206257796994,
+      "interest_1h": -0.000004139329784722801,
+      "index_price": 37820.61
+    },
+    {
+      "timestamp": 1643176800000,
+      "prev_index_price": 37820.61,
+      "interest_8h": -0.000011238581335738979,
+      "interest_1h": -0.000005311521749954156,
+      "index_price": 37632.56
+    },
+    {
+      "timestamp": 1643180400000,
+      "prev_index_price": 37632.56,
+      "interest_8h": -0.000023012882162144358,
+      "interest_1h": -0.000012133942888992604,
+      "index_price": 37319.28
+    },
+    {
+      "timestamp": 1643184000000,
+      "prev_index_price": 37319.28,
+      "interest_8h": -0.00002328158717346498,
+      "interest_1h": -8.720592239057195e-7,
+      "index_price": 37372.66
+    },
+    {
+      "timestamp": 1643187600000,
+      "prev_index_price": 37372.66,
+      "interest_8h": -0.0000046098648166505645,
+      "interest_1h": 0.00002110405649238198,
+      "index_price": 37627.89
+    },
+    {
+      "timestamp": 1643191200000,
+      "prev_index_price": 37627.89,
+      "interest_8h": 0.00006603329666752516,
+      "interest_1h": 0.00007238529677932431,
+      "index_price": 37689.42
+    },
+    {
+      "timestamp": 1643194800000,
+      "prev_index_price": 37689.42,
+      "interest_8h": 0.00013540175411243314,
+      "interest_1h": 0.00006727282408886609,
+      "index_price": 37971.3
+    },
+    {
+      "timestamp": 1643198400000,
+      "prev_index_price": 37971.3,
+      "interest_8h": 0.00013645440617951596,
+      "interest_1h": -0.0000011432789876300318,
+      "index_price": 38108.11
+    },
+    {
+      "timestamp": 1643202000000,
+      "prev_index_price": 38108.11,
+      "interest_8h": 0.00012416616674083367,
+      "interest_1h": -0.000018053972549395,
+      "index_price": 37786.79
+    },
+    {
+      "timestamp": 1643205600000,
+      "prev_index_price": 37786.79,
+      "interest_8h": 0.00012651647753930508,
+      "interest_1h": -0.000002334404200066716,
+      "index_price": 38237.07
+    },
+    {
+      "timestamp": 1643209200000,
+      "prev_index_price": 38237.07,
+      "interest_8h": 0.00011337458568631213,
+      "interest_1h": -0.000024707772979746585,
+      "index_price": 38261.5
+    },
+    {
+      "timestamp": 1643212800000,
+      "prev_index_price": 38261.5,
+      "interest_8h": 0.00009912935791271094,
+      "interest_1h": -0.000015651187261635085,
+      "index_price": 38018.36
+    },
+    {
+      "timestamp": 1643216400000,
+      "prev_index_price": 38018.36,
+      "interest_8h": 0.0000756407587803356,
+      "interest_1h": -0.000002947677000808728,
+      "index_price": 38300.48
+    },
+    {
+      "timestamp": 1643220000000,
+      "prev_index_price": 38300.48,
+      "interest_8h": 0.0000015239117884569335,
+      "interest_1h": -0.0000017650336177165855,
+      "index_price": 38080.35
+    },
+    {
+      "timestamp": 1643223600000,
+      "prev_index_price": 38080.35,
+      "interest_8h": -0.00007753301700753175,
+      "interest_1h": -0.000011324797763590133,
+      "index_price": 37983.05
+    },
+    {
+      "timestamp": 1643227200000,
+      "prev_index_price": 37983.05,
+      "interest_8h": -0.00007946128451134995,
+      "interest_1h": -0.00000278713874655244,
+      "index_price": 37601.58
+    },
+    {
+      "timestamp": 1643230800000,
+      "prev_index_price": 37601.58,
+      "interest_8h": -0.00007070285868659668,
+      "interest_1h": -0.000009701099281384506,
+      "index_price": 37050.59
+    },
+    {
+      "timestamp": 1643234400000,
+      "prev_index_price": 37050.59,
+      "interest_8h": -0.00007276980954626223,
+      "interest_1h": -0.0000035385439868647175,
+      "index_price": 36353.03
+    },
+    {
+      "timestamp": 1643238000000,
+      "prev_index_price": 36353.03,
+      "interest_8h": -0.00005305484492451742,
+      "interest_1h": -0.000004714593264005059,
+      "index_price": 36539.1
+    },
+    {
+      "timestamp": 1643241600000,
+      "prev_index_price": 36539.1,
+      "interest_8h": -0.00003091135686171688,
+      "interest_1h": 0.000006007608921022052,
+      "index_price": 36836.54
+    },
+    {
+      "timestamp": 1643245200000,
+      "prev_index_price": 36836.54,
+      "interest_8h": -0.000030066675864767204,
+      "interest_1h": -0.0000018193661819659993,
+      "index_price": 37036.32
+    },
+    {
+      "timestamp": 1643248800000,
+      "prev_index_price": 37036.32,
+      "interest_8h": -0.000031313726079751814,
+      "interest_1h": -0.0000030877056053904072,
+      "index_price": 35881.74
+    },
+    {
+      "timestamp": 1643252400000,
+      "prev_index_price": 35881.74,
+      "interest_8h": -0.000027624339456466112,
+      "interest_1h": -0.000007261251211986958,
+      "index_price": 36035.08
+    },
+    {
+      "timestamp": 1643256000000,
+      "prev_index_price": 36035.08,
+      "interest_8h": -0.000038330715265855815,
+      "interest_1h": -0.00001317042033540199,
+      "index_price": 35778.53
+    },
+    {
+      "timestamp": 1643259600000,
+      "prev_index_price": 35778.53,
+      "interest_8h": -0.00003250567838884042,
+      "interest_1h": -0.00000414810237447189,
+      "index_price": 35960.16
+    },
+    {
+      "timestamp": 1643263200000,
+      "prev_index_price": 35960.16,
+      "interest_8h": -0.0000311497731373147,
+      "interest_1h": -0.0000026985278423429925,
+      "index_price": 36004.37
+    },
+    {
+      "timestamp": 1643266800000,
+      "prev_index_price": 36004.37,
+      "interest_8h": -0.00002855035764266012,
+      "interest_1h": -0.0000019508971211219286,
+      "index_price": 36157.14
+    },
+    {
+      "timestamp": 1643270400000,
+      "prev_index_price": 36157.14,
+      "interest_8h": -0.00003565816051708365,
+      "interest_1h": -8.037778660918429e-7,
+      "index_price": 36198.96
+    },
+    {
+      "timestamp": 1643274000000,
+      "prev_index_price": 36198.96,
+      "interest_8h": -0.00003597802921605996,
+      "interest_1h": -0.0000019114958907963816,
+      "index_price": 36468.99
+    },
+    {
+      "timestamp": 1643277600000,
+      "prev_index_price": 36468.99,
+      "interest_8h": -0.00002395158326888919,
+      "interest_1h": 0.000008042921655645858,
+      "index_price": 36556.49
+    },
+    {
+      "timestamp": 1643281200000,
+      "prev_index_price": 36556.49,
+      "interest_8h": -0.000023320204604714993,
+      "interest_1h": -0.0000066534456663379695,
+      "index_price": 36329.99
+    },
+    {
+      "timestamp": 1643284800000,
+      "prev_index_price": 36329.99,
+      "interest_8h": -0.000010077523373699833,
+      "interest_1h": 0,
+      "index_price": 36706.18
+    },
+    {
+      "timestamp": 1643288400000,
+      "prev_index_price": 36706.18,
+      "interest_8h": 0.000003967846504693948,
+      "interest_1h": 0.00001013331882304759,
+      "index_price": 36697.43
+    },
+    {
+      "timestamp": 1643292000000,
+      "prev_index_price": 36697.43,
+      "interest_8h": 0.000006624146865379225,
+      "interest_1h": -5.139384305934584e-8,
+      "index_price": 36859.16
+    },
+    {
+      "timestamp": 1643295600000,
+      "prev_index_price": 36859.16,
+      "interest_8h": 0.000008505768046756364,
+      "interest_1h": -1.0775532803960351e-7,
+      "index_price": 36896.31
+    },
+    {
+      "timestamp": 1643299200000,
+      "prev_index_price": 36896.31,
+      "interest_8h": -0.000012817394749756601,
+      "interest_1h": -0.00002256413394723869,
+      "index_price": 36656.52
+    },
+    {
+      "timestamp": 1643302800000,
+      "prev_index_price": 36656.52,
+      "interest_8h": -0.0000364350123304745,
+      "interest_1h": -0.00002557861664049899,
+      "index_price": 36534.69
+    },
+    {
+      "timestamp": 1643306400000,
+      "prev_index_price": 36534.69,
+      "interest_8h": -0.00002627898573585193,
+      "interest_1h": 0.000018294747748064792,
+      "index_price": 36298.71
+    },
+    {
+      "timestamp": 1643310000000,
+      "prev_index_price": 36298.71,
+      "interest_8h": -0.00001796934257499101,
+      "interest_1h": 0.0000015332785168345386,
+      "index_price": 36228.53
+    },
+    {
+      "timestamp": 1643313600000,
+      "prev_index_price": 36228.53,
+      "interest_8h": -0.000018166828696246182,
+      "interest_1h": -1.1268496251116062e-8,
+      "index_price": 36222.92
+    },
+    {
+      "timestamp": 1643317200000,
+      "prev_index_price": 36222.92,
+      "interest_8h": -0.000028293401344922213,
+      "interest_1h": 0,
+      "index_price": 35561.81
+    },
+    {
+      "timestamp": 1643320800000,
+      "prev_index_price": 35561.81,
+      "interest_8h": -0.000028700265357587794,
+      "interest_1h": -3.220432838445633e-7,
+      "index_price": 36198.68
+    },
+    {
+      "timestamp": 1643324400000,
+      "prev_index_price": 36198.68,
+      "interest_8h": -0.000028363332160058674,
+      "interest_1h": 2.531178406596181e-7,
+      "index_price": 36723.77
+    },
+    {
+      "timestamp": 1643328000000,
+      "prev_index_price": 36723.77,
+      "interest_8h": -0.000006689023918854246,
+      "interest_1h": -9.275997240588017e-7,
+      "index_price": 37193.33
+    },
+    {
+      "timestamp": 1643331600000,
+      "prev_index_price": 37193.33,
+      "interest_8h": 0.000018444123763654312,
+      "interest_1h": -3.912247641278239e-7,
+      "index_price": 37192.83
+    },
+    {
+      "timestamp": 1643335200000,
+      "prev_index_price": 37192.83,
+      "interest_8h": 0.000010322343977780604,
+      "interest_1h": -2.506268954015936e-7,
+      "index_price": 36901.15
+    },
+    {
+      "timestamp": 1643338800000,
+      "prev_index_price": 36901.15,
+      "interest_8h": -0.000002556858656725387,
+      "interest_1h": -9.478163826172772e-7,
+      "index_price": 36963.3
+    },
+    {
+      "timestamp": 1643342400000,
+      "prev_index_price": 36963.3,
+      "interest_8h": -0.0000025766636553484874,
+      "interest_1h": -3.211086542873571e-8,
+      "index_price": 37368.63
+    },
+    {
+      "timestamp": 1643346000000,
+      "prev_index_price": 37368.63,
+      "interest_8h": -0.000002490804073501858,
+      "interest_1h": 4.0805500126937596e-8,
+      "index_price": 37248.39
+    },
+    {
+      "timestamp": 1643349600000,
+      "prev_index_price": 37248.39,
+      "interest_8h": -0.000002207600732959085,
+      "interest_1h": 0,
+      "index_price": 37234.34
+    },
+    {
+      "timestamp": 1643353200000,
+      "prev_index_price": 37234.34,
+      "interest_8h": 0.00005120822271258412,
+      "interest_1h": 0.000054448265274076175,
+      "index_price": 36940.15
+    },
+    {
+      "timestamp": 1643356800000,
+      "prev_index_price": 36940.15,
+      "interest_8h": 0.00006599537776216418,
+      "interest_1h": 0.000013106128069021496,
+      "index_price": 36800.1
+    },
+    {
+      "timestamp": 1643360400000,
+      "prev_index_price": 36800.1,
+      "interest_8h": 0.0000683090886454363,
+      "interest_1h": 0.000001902227355279987,
+      "index_price": 36661.75
+    },
+    {
+      "timestamp": 1643364000000,
+      "prev_index_price": 36661.75,
+      "interest_8h": 0.00004429578531304685,
+      "interest_1h": -0.000023572332905515363,
+      "index_price": 36495.47
+    },
+    {
+      "timestamp": 1643367600000,
+      "prev_index_price": 36495.47,
+      "interest_8h": 0.00006880658067121977,
+      "interest_1h": 0.00002318951542551301,
+      "index_price": 36627.17
+    },
+    {
+      "timestamp": 1643371200000,
+      "prev_index_price": 36627.17,
+      "interest_8h": 0.0000694270491504591,
+      "interest_1h": -1.6320584805481387e-7,
+      "index_price": 36453.42
+    },
+    {
+      "timestamp": 1643374800000,
+      "prev_index_price": 36453.42,
+      "interest_8h": 0.00006914973673833412,
+      "interest_1h": -1.2962054000637928e-8,
+      "index_price": 36281.05
+    },
+    {
+      "timestamp": 1643378400000,
+      "prev_index_price": 36281.05,
+      "interest_8h": 0.00006893139691702675,
+      "interest_1h": -1.8733447153710604e-7,
+      "index_price": 36923.8
+    },
+    {
+      "timestamp": 1643382000000,
+      "prev_index_price": 36923.8,
+      "interest_8h": 0.000014251856359961348,
+      "interest_1h": -1.1679176848912228e-7,
+      "index_price": 36772.25
+    },
+    {
+      "timestamp": 1643385600000,
+      "prev_index_price": 36772.25,
+      "interest_8h": -0.000005037931143116326,
+      "interest_1h": -0.000006174639218224677,
+      "index_price": 37208.18
+    },
+    {
+      "timestamp": 1643389200000,
+      "prev_index_price": 37208.18,
+      "interest_8h": -0.000006914905502108324,
+      "interest_1h": 0,
+      "index_price": 37118.17
+    },
+    {
+      "timestamp": 1643392800000,
+      "prev_index_price": 37118.17,
+      "interest_8h": 0.000016078881216843373,
+      "interest_1h": -5.115784540786413e-7,
+      "index_price": 36853.88
+    },
+    {
+      "timestamp": 1643396400000,
+      "prev_index_price": 36853.88,
+      "interest_8h": -0.000008158124239899388,
+      "interest_1h": -0.0000010281549084470541,
+      "index_price": 37067.52
+    },
+    {
+      "timestamp": 1643400000000,
+      "prev_index_price": 37067.52,
+      "interest_8h": -0.000007956992527777461,
+      "interest_1h": 0,
+      "index_price": 37241.38
+    },
+    {
+      "timestamp": 1643403600000,
+      "prev_index_price": 37241.38,
+      "interest_8h": -0.000009429007401120172,
+      "interest_1h": -0.0000015628406838159932,
+      "index_price": 37768.95
+    },
+    {
+      "timestamp": 1643407200000,
+      "prev_index_price": 37768.95,
+      "interest_8h": -0.00002063277648859693,
+      "interest_1h": -0.000011484363209572177,
+      "index_price": 37806.73
+    },
+    {
+      "timestamp": 1643410800000,
+      "prev_index_price": 37806.73,
+      "interest_8h": 0.0000030076646360840134,
+      "interest_1h": 0.000024098843952383796,
+      "index_price": 37683.82
+    },
+    {
+      "timestamp": 1643414400000,
+      "prev_index_price": 37683.82,
+      "interest_8h": -5.415558585853475e-7,
+      "interest_1h": -0.000009958408332763734,
+      "index_price": 37733.77
+    },
+    {
+      "timestamp": 1643418000000,
+      "prev_index_price": 37733.77,
+      "interest_8h": -0.000007899814190526531,
+      "interest_1h": -0.000007481625885713242,
+      "index_price": 37814.8
+    },
+    {
+      "timestamp": 1643421600000,
+      "prev_index_price": 37814.8,
+      "interest_8h": -0.000012943342011675861,
+      "interest_1h": -0.000005753926492583631,
+      "index_price": 37564.98
+    },
+    {
+      "timestamp": 1643425200000,
+      "prev_index_price": 37564.98,
+      "interest_8h": -0.000015074768537371223,
+      "interest_1h": -0.0000031319855203433997,
+      "index_price": 37558.56
+    },
+    {
+      "timestamp": 1643428800000,
+      "prev_index_price": 37558.56,
+      "interest_8h": -0.000021407857360708694,
+      "interest_1h": -0.000006315718638306637,
+      "index_price": 37759.89
+    },
+    {
+      "timestamp": 1643432400000,
+      "prev_index_price": 37759.89,
+      "interest_8h": -0.00002575946940537336,
+      "interest_1h": -0.00000563197231436035,
+      "index_price": 37847.54
+    },
+    {
+      "timestamp": 1643436000000,
+      "prev_index_price": 37847.54,
+      "interest_8h": -0.000018018002706053578,
+      "interest_1h": -0.0000037325323051745833,
+      "index_price": 37680.06
+    },
+    {
+      "timestamp": 1643439600000,
+      "prev_index_price": 37680.06,
+      "interest_8h": -0.000042351532359512526,
+      "interest_1h": -3.716800946770674e-7,
+      "index_price": 37774.66
+    },
+    {
+      "timestamp": 1643443200000,
+      "prev_index_price": 37774.66,
+      "interest_8h": -0.00003293678977348971,
+      "interest_1h": -5.012711896856039e-7,
+      "index_price": 37868.49
+    },
+    {
+      "timestamp": 1643446800000,
+      "prev_index_price": 37868.49,
+      "interest_8h": -0.000025700109524601914,
+      "interest_1h": -1.9055304542434437e-7,
+      "index_price": 37819.53
+    },
+    {
+      "timestamp": 1643450400000,
+      "prev_index_price": 37819.53,
+      "interest_8h": -0.000019779116224539475,
+      "interest_1h": 3.553334536251119e-8,
+      "index_price": 37735.41
+    },
+    {
+      "timestamp": 1643454000000,
+      "prev_index_price": 37735.41,
+      "interest_8h": -0.00001681676993562124,
+      "interest_1h": -1.7329645791573792e-7,
+      "index_price": 37783.61
+    },
+    {
+      "timestamp": 1643457600000,
+      "prev_index_price": 37783.61,
+      "interest_8h": -0.000010670094879461653,
+      "interest_1h": -1.1440209578942104e-7,
+      "index_price": 37768.1
+    },
+    {
+      "timestamp": 1643461200000,
+      "prev_index_price": 37768.1,
+      "interest_8h": -0.000005053038139078947,
+      "interest_1h": -1.6968671027304914e-9,
+      "index_price": 37881.23
+    },
+    {
+      "timestamp": 1643464800000,
+      "prev_index_price": 37881.23,
+      "interest_8h": -0.00000866602597564207,
+      "interest_1h": -0.00000739055158863652,
+      "index_price": 38180.65
+    },
+    {
+      "timestamp": 1643468400000,
+      "prev_index_price": 38180.65,
+      "interest_8h": -0.00001022837121215019,
+      "interest_1h": -0.000001933763928351017,
+      "index_price": 37652.28
+    },
+    {
+      "timestamp": 1643472000000,
+      "prev_index_price": 37652.28,
+      "interest_8h": -0.0000164704732676639,
+      "interest_1h": -0.000006681190042699375,
+      "index_price": 37589.28
+    },
+    {
+      "timestamp": 1643475600000,
+      "prev_index_price": 37589.28,
+      "interest_8h": -0.000017999425665751255,
+      "interest_1h": -0.000001729615896513315,
+      "index_price": 37536.05
+    },
+    {
+      "timestamp": 1643479200000,
+      "prev_index_price": 37536.05,
+      "interest_8h": -0.000017994844796261948,
+      "interest_1h": 0,
+      "index_price": 37671.82
+    },
+    {
+      "timestamp": 1643482800000,
+      "prev_index_price": 37671.82,
+      "interest_8h": -0.00001271392117298358,
+      "interest_1h": 0.000005115211656193282,
+      "index_price": 37820.82
+    },
+    {
+      "timestamp": 1643486400000,
+      "prev_index_price": 37820.82,
+      "interest_8h": -0.000012594347031937305,
+      "interest_1h": 0,
+      "index_price": 37885.98
+    },
+    {
+      "timestamp": 1643490000000,
+      "prev_index_price": 37885.98,
+      "interest_8h": -0.000012597138160047545,
+      "interest_1h": 3.291339170652485e-8,
+      "index_price": 38367.12
+    },
+    {
+      "timestamp": 1643493600000,
+      "prev_index_price": 38367.12,
+      "interest_8h": -0.000008055804241428235,
+      "interest_1h": -0.0000028214514364926573,
+      "index_price": 38388.69
+    },
+    {
+      "timestamp": 1643497200000,
+      "prev_index_price": 38388.69,
+      "interest_8h": -0.000006035941993850257,
+      "interest_1h": 1.4042679882786701e-9,
+      "index_price": 38160.34
+    },
+    {
+      "timestamp": 1643500800000,
+      "prev_index_price": 38160.34,
+      "interest_8h": 6.441684162989116e-7,
+      "interest_1h": 0,
+      "index_price": 38184.6
+    },
+    {
+      "timestamp": 1643504400000,
+      "prev_index_price": 38184.6,
+      "interest_8h": 0.0000023705579503881113,
+      "interest_1h": 0,
+      "index_price": 37834.19
+    },
+    {
+      "timestamp": 1643508000000,
+      "prev_index_price": 37834.19,
+      "interest_8h": 0.0000010779074683728468,
+      "interest_1h": -0.0000013066971409099117,
+      "index_price": 37951.82
+    },
+    {
+      "timestamp": 1643511600000,
+      "prev_index_price": 37951.82,
+      "interest_8h": -0.000004053272578091604,
+      "interest_1h": 0,
+      "index_price": 37985.74
+    },
+    {
+      "timestamp": 1643515200000,
+      "prev_index_price": 37985.74,
+      "interest_8h": -0.000004088366425651753,
+      "interest_1h": -2.8184643886785387e-8,
+      "index_price": 37941.92
+    },
+    {
+      "timestamp": 1643518800000,
+      "prev_index_price": 37941.92,
+      "interest_8h": -0.000004215977833984638,
+      "interest_1h": -4.1889622118506055e-8,
+      "index_price": 38132.38
+    },
+    {
+      "timestamp": 1643522400000,
+      "prev_index_price": 38132.38,
+      "interest_8h": -6.29906264006066e-7,
+      "interest_1h": 7.602937579605434e-7,
+      "index_price": 38155.08
+    },
+    {
+      "timestamp": 1643526000000,
+      "prev_index_price": 38155.08,
+      "interest_8h": -6.299699817060572e-7,
+      "interest_1h": -2.4143833280750964e-9,
+      "index_price": 38132.23
+    },
+    {
+      "timestamp": 1643529600000,
+      "prev_index_price": 38132.23,
+      "interest_8h": -7.328274846070221e-7,
+      "interest_1h": -1.0231648738071613e-7,
+      "index_price": 38265.91
+    },
+    {
+      "timestamp": 1643533200000,
+      "prev_index_price": 38265.91,
+      "interest_8h": -7.261401358588012e-7,
+      "interest_1h": 0,
+      "index_price": 38024.13
+    },
+    {
+      "timestamp": 1643536800000,
+      "prev_index_price": 38024.13,
+      "interest_8h": 5.82409411057261e-7,
+      "interest_1h": 0,
+      "index_price": 37913.35
+    },
+    {
+      "timestamp": 1643540400000,
+      "prev_index_price": 37913.35,
+      "interest_8h": 5.367450449705994e-7,
+      "interest_1h": -4.6087229803039047e-8,
+      "index_price": 38201.62
+    },
+    {
+      "timestamp": 1643544000000,
+      "prev_index_price": 38201.62,
+      "interest_8h": 5.64277991168575e-7,
+      "interest_1h": 0,
+      "index_price": 38138.73
+    },
+    {
+      "timestamp": 1643547600000,
+      "prev_index_price": 38138.73,
+      "interest_8h": -0.0000034921656106541337,
+      "interest_1h": -0.000004102059032776197,
+      "index_price": 37965.97
+    },
+    {
+      "timestamp": 1643551200000,
+      "prev_index_price": 37965.97,
+      "interest_8h": -0.000004262847721164148,
+      "interest_1h": -8.468392133445529e-9,
+      "index_price": 37994.75
+    },
+    {
+      "timestamp": 1643554800000,
+      "prev_index_price": 37994.75,
+      "interest_8h": -0.000013817708711185744,
+      "interest_1h": -0.000009524647994208737,
+      "index_price": 37855.89
+    },
+    {
+      "timestamp": 1643558400000,
+      "prev_index_price": 37855.89,
+      "interest_8h": -7.916716013449317e-7,
+      "interest_1h": 0.000012832777190775698,
+      "index_price": 37985.54
+    },
+    {
+      "timestamp": 1643562000000,
+      "prev_index_price": 37985.54,
+      "interest_8h": -7.866405038776647e-7,
+      "interest_1h": 0,
+      "index_price": 37848.43
+    },
+    {
+      "timestamp": 1643565600000,
+      "prev_index_price": 37848.43,
+      "interest_8h": 0.00000660629196607493,
+      "interest_1h": 0.000007377985477925615,
+      "index_price": 38012.28
+    },
+    {
+      "timestamp": 1643569200000,
+      "prev_index_price": 38012.28,
+      "interest_8h": -0.00006359566285158531,
+      "interest_1h": -0.00006995019920760033,
+      "index_price": 37845.78
+    },
+    {
+      "timestamp": 1643572800000,
+      "prev_index_price": 37845.78,
+      "interest_8h": -0.00010946595076899257,
+      "interest_1h": -0.000045621841668800616,
+      "index_price": 37529.29
+    },
+    {
+      "timestamp": 1643576400000,
+      "prev_index_price": 37529.29,
+      "interest_8h": -0.00010628646234969961,
+      "interest_1h": -0.0000013837448510364077,
+      "index_price": 37708.83
+    },
+    {
+      "timestamp": 1643580000000,
+      "prev_index_price": 37708.83,
+      "interest_8h": -0.00010910588359501968,
+      "interest_1h": -0.0000027266515792940537,
+      "index_price": 37751.26
+    },
+    {
+      "timestamp": 1643583600000,
+      "prev_index_price": 37751.26,
+      "interest_8h": -0.0001171299547411404,
+      "interest_1h": -0.000017865619861144048,
+      "index_price": 37805.5
+    },
+    {
+      "timestamp": 1643587200000,
+      "prev_index_price": 37805.5,
+      "interest_8h": -0.00013354621562242257,
+      "interest_1h": -0.0000031210363564415058,
+      "index_price": 37914.63
+    },
+    {
+      "timestamp": 1643590800000,
+      "prev_index_price": 37914.63,
+      "interest_8h": -0.0001399952627466401,
+      "interest_1h": -0.000006943209422089015,
+      "index_price": 36855.51
+    },
+    {
+      "timestamp": 1643594400000,
+      "prev_index_price": 36855.51,
+      "interest_8h": -0.00014753313419973432,
+      "interest_1h": 4.6431201121830924e-7,
+      "index_price": 36845.09
+    },
+    {
+      "timestamp": 1643598000000,
+      "prev_index_price": 36845.09,
+      "interest_8h": -0.00007858812671397552,
+      "interest_1h": -0.0000013102061017621625,
+      "index_price": 37016.41
+    },
+    {
+      "timestamp": 1643601600000,
+      "prev_index_price": 37016.41,
+      "interest_8h": -0.00003323060914388415,
+      "interest_1h": -5.326288935840131e-7,
+      "index_price": 37046.75
+    },
+    {
+      "timestamp": 1643605200000,
+      "prev_index_price": 37046.75,
+      "interest_8h": -0.000032001701170484054,
+      "interest_1h": -2.4380126630269775e-9,
+      "index_price": 36927.16
+    },
+    {
+      "timestamp": 1643608800000,
+      "prev_index_price": 36927.16,
+      "interest_8h": -0.000025699038226998257,
+      "interest_1h": 0.0000035301692106017576,
+      "index_price": 37023.68
+    },
+    {
+      "timestamp": 1643612400000,
+      "prev_index_price": 37023.68,
+      "interest_8h": -0.000009776129531910979,
+      "interest_1h": -0.00000189151368803737,
+      "index_price": 36929.82
+    },
+    {
+      "timestamp": 1643616000000,
+      "prev_index_price": 36929.82,
+      "interest_8h": -0.000007869755083474488,
+      "interest_1h": -0.00000116440006761604,
+      "index_price": 37145.13
+    },
+    {
+      "timestamp": 1643619600000,
+      "prev_index_price": 37145.13,
+      "interest_8h": -0.0000012648942486107733,
+      "interest_1h": -3.669459084240921e-7,
+      "index_price": 37167.87
+    },
+    {
+      "timestamp": 1643623200000,
+      "prev_index_price": 37167.87,
+      "interest_8h": -0.0000017367922231604912,
+      "interest_1h": -8.293020642483093e-9,
+      "index_price": 37228.85
+    },
+    {
+      "timestamp": 1643626800000,
+      "prev_index_price": 37228.85,
+      "interest_8h": -4.285696349225993e-7,
+      "interest_1h": 0,
+      "index_price": 37318.21
+    },
+    {
+      "timestamp": 1643630400000,
+      "prev_index_price": 37318.21,
+      "interest_8h": -0.00001736285704061871,
+      "interest_1h": -0.00001759499101561187,
+      "index_price": 37284.13
+    },
+    {
+      "timestamp": 1643634000000,
+      "prev_index_price": 37284.13,
+      "interest_8h": -0.00002513686314155215,
+      "interest_1h": -0.000007908200597201943,
+      "index_price": 37097.72
+    },
+    {
+      "timestamp": 1643637600000,
+      "prev_index_price": 37097.72,
+      "interest_8h": -0.0000019454637182270562,
+      "interest_1h": 0.00002685008602923355,
+      "index_price": 37282.44
+    },
+    {
+      "timestamp": 1643641200000,
+      "prev_index_price": 37282.44,
+      "interest_8h": -3.262432950072807e-7,
+      "interest_1h": -2.7503130122358457e-7,
+      "index_price": 37535.8
+    },
+    {
+      "timestamp": 1643644800000,
+      "prev_index_price": 37535.8,
+      "interest_8h": 0.00002522361373333132,
+      "interest_1h": 0.00002463699038426735,
+      "index_price": 37728.55
+    },
+    {
+      "timestamp": 1643648400000,
+      "prev_index_price": 37728.55,
+      "interest_8h": 0.000021964025074917605,
+      "interest_1h": -0.0000036971438000383352,
+      "index_price": 38353.22
+    },
+    {
+      "timestamp": 1643652000000,
+      "prev_index_price": 38353.22,
+      "interest_8h": 0.000021549994875707342,
+      "interest_1h": -4.730329373036828e-7,
+      "index_price": 38510.3
+    },
+    {
+      "timestamp": 1643655600000,
+      "prev_index_price": 38510.3,
+      "interest_8h": 0.000021601075550723225,
+      "interest_1h": 1.123188578188095e-10,
+      "index_price": 38494.55
+    },
+    {
+      "timestamp": 1643659200000,
+      "prev_index_price": 38494.55,
+      "interest_8h": 0.00003499376391188444,
+      "interest_1h": -0.00000430173058625949,
+      "index_price": 38439.87
+    },
+    {
+      "timestamp": 1643662800000,
+      "prev_index_price": 38439.87,
+      "interest_8h": 0.00003245180231946843,
+      "interest_1h": -0.000010605978411197033,
+      "index_price": 38494.36
+    },
+    {
+      "timestamp": 1643666400000,
+      "prev_index_price": 38494.36,
+      "interest_8h": 0.0000021088779904297373,
+      "interest_1h": -0.000003635177305505622,
+      "index_price": 38440.92
+    },
+    {
+      "timestamp": 1643670000000,
+      "prev_index_price": 38440.92,
+      "interest_8h": -0.0000048910319048458445,
+      "interest_1h": -0.00000746725540104817,
+      "index_price": 38442.47
+    },
+    {
+      "timestamp": 1643673600000,
+      "prev_index_price": 38442.47,
+      "interest_8h": -0.000025405714305421512,
+      "interest_1h": 0.0000043551098786501195,
+      "index_price": 38498.76
+    },
+    {
+      "timestamp": 1643677200000,
+      "prev_index_price": 38498.76,
+      "interest_8h": -0.000021991108961749132,
+      "interest_1h": 7.744019661603579e-8,
+      "index_price": 38365.71
+    },
+    {
+      "timestamp": 1643680800000,
+      "prev_index_price": 38365.71,
+      "interest_8h": -0.000021605632505783718,
+      "interest_1h": 0,
+      "index_price": 38265.47
+    },
+    {
+      "timestamp": 1643684400000,
+      "prev_index_price": 38265.47,
+      "interest_8h": -0.000021598484884665126,
+      "interest_1h": 0,
+      "index_price": 38508.17
+    },
+    {
+      "timestamp": 1643688000000,
+      "prev_index_price": 38508.17,
+      "interest_8h": -0.00001727919391941134,
+      "interest_1h": -8.284237022185104e-9,
+      "index_price": 38631.77
+    },
+    {
+      "timestamp": 1643691600000,
+      "prev_index_price": 38631.77,
+      "interest_8h": -0.000006682675048869427,
+      "interest_1h": 0,
+      "index_price": 38584.44
+    },
+    {
+      "timestamp": 1643695200000,
+      "prev_index_price": 38584.44,
+      "interest_8h": 0.000040856691611230915,
+      "interest_1h": 0.000044063860087627755,
+      "index_price": 38478.03
+    },
+    {
+      "timestamp": 1643698800000,
+      "prev_index_price": 38478.03,
+      "interest_8h": 0.00004856588033655347,
+      "interest_1h": 2.4020681508601677e-7,
+      "index_price": 38313.47
+    },
+    {
+      "timestamp": 1643702400000,
+      "prev_index_price": 38313.47,
+      "interest_8h": 0.00004972334917806933,
+      "interest_1h": 0.000005421622570043623,
+      "index_price": 38466.34
+    },
+    {
+      "timestamp": 1643706000000,
+      "prev_index_price": 38466.34,
+      "interest_8h": 0.000049844403130372955,
+      "interest_1h": 3.709997788799042e-7,
+      "index_price": 38613.56
+    },
+    {
+      "timestamp": 1643709600000,
+      "prev_index_price": 38613.56,
+      "interest_8h": 0.000061349912479478,
+      "interest_1h": 0.000011741723591480662,
+      "index_price": 38274.62
+    },
+    {
+      "timestamp": 1643713200000,
+      "prev_index_price": 38274.62,
+      "interest_8h": 0.00007114794062263744,
+      "interest_1h": 0.000009351753525166535,
+      "index_price": 38276.9
+    },
+    {
+      "timestamp": 1643716800000,
+      "prev_index_price": 38276.9,
+      "interest_8h": 0.00009150943406069408,
+      "interest_1h": 0.000019939952629676643,
+      "index_price": 38471.18
+    },
+    {
+      "timestamp": 1643720400000,
+      "prev_index_price": 38471.18,
+      "interest_8h": 0.00009764793606527154,
+      "interest_1h": 0.000006207696496295848,
+      "index_price": 38681.79
+    },
+    {
+      "timestamp": 1643724000000,
+      "prev_index_price": 38681.79,
+      "interest_8h": 0.00005371523951218767,
+      "interest_1h": 3.05122920061911e-7,
+      "index_price": 38897.45
+    },
+    {
+      "timestamp": 1643727600000,
+      "prev_index_price": 38897.45,
+      "interest_8h": 0.00005488690743714741,
+      "interest_1h": 0.0000016655786864080382,
+      "index_price": 38513.39
+    },
+    {
+      "timestamp": 1643731200000,
+      "prev_index_price": 38513.39,
+      "interest_8h": 0.00004966265039149074,
+      "interest_1h": 0,
+      "index_price": 38647.99
+    },
+    {
+      "timestamp": 1643734800000,
+      "prev_index_price": 38647.99,
+      "interest_8h": 0.000047775708991788526,
+      "interest_1h": -0.000001706112616268148,
+      "index_price": 39155.11
+    },
+    {
+      "timestamp": 1643738400000,
+      "prev_index_price": 39155.11,
+      "interest_8h": 0.00007040026295353945,
+      "interest_1h": 0.00003548043135688685,
+      "index_price": 38898.41
+    },
+    {
+      "timestamp": 1643742000000,
+      "prev_index_price": 38898.41,
+      "interest_8h": 0.00006201266606148257,
+      "interest_1h": 9.761161673092703e-7,
+      "index_price": 38541.4
+    },
+    {
+      "timestamp": 1643745600000,
+      "prev_index_price": 38541.4,
+      "interest_8h": 0.00004253392541096649,
+      "interest_1h": 2.481178283756637e-7,
+      "index_price": 38400.34
+    },
+    {
+      "timestamp": 1643749200000,
+      "prev_index_price": 38400.34,
+      "interest_8h": 0.000036493118126410994,
+      "interest_1h": -3.1745604984706875e-8,
+      "index_price": 38533.05
+    },
+    {
+      "timestamp": 1643752800000,
+      "prev_index_price": 38533.05,
+      "interest_8h": 0.000039656301296715185,
+      "interest_1h": 0.0000032359478118191297,
+      "index_price": 38819.12
+    },
+    {
+      "timestamp": 1643756400000,
+      "prev_index_price": 38819.12,
+      "interest_8h": 0.000046136078018683494,
+      "interest_1h": 0.000008588100497317026,
+      "index_price": 38717.48
+    },
+    {
+      "timestamp": 1643760000000,
+      "prev_index_price": 38717.48,
+      "interest_8h": 0.00004617190005908989,
+      "interest_1h": -1.2564390879124902e-7,
+      "index_price": 38728
+    },
+    {
+      "timestamp": 1643763600000,
+      "prev_index_price": 38728,
+      "interest_8h": 0.0000485091728403142,
+      "interest_1h": -3.951164333001417e-8,
+      "index_price": 38579.75
+    },
+    {
+      "timestamp": 1643767200000,
+      "prev_index_price": 38579.75,
+      "interest_8h": 0.000012900730723587093,
+      "interest_1h": 0,
+      "index_price": 38467.62
+    },
+    {
+      "timestamp": 1643770800000,
+      "prev_index_price": 38467.62,
+      "interest_8h": 0.000011815176437717004,
+      "interest_1h": 6.102615409531251e-12,
+      "index_price": 38654.84
+    },
+    {
+      "timestamp": 1643774400000,
+      "prev_index_price": 38654.84,
+      "interest_8h": 0.00001029188460285953,
+      "interest_1h": -0.000001241009726098109,
+      "index_price": 38585.77
+    },
+    {
+      "timestamp": 1643778000000,
+      "prev_index_price": 38585.77,
+      "interest_8h": -0.0001251206787657197,
+      "interest_1h": -0.00013566534750317425,
+      "index_price": 38447.77
+    },
+    {
+      "timestamp": 1643781600000,
+      "prev_index_price": 38447.77,
+      "interest_8h": -0.00012332674356626798,
+      "interest_1h": 0.000005925572247522996,
+      "index_price": 38422.34
+    },
+    {
+      "timestamp": 1643785200000,
+      "prev_index_price": 38422.34,
+      "interest_8h": -0.00016335096176199682,
+      "interest_1h": -0.00003153924228762338,
+      "index_price": 38297.11
+    },
+    {
+      "timestamp": 1643788800000,
+      "prev_index_price": 38297.11,
+      "interest_8h": -0.0001493938152156358,
+      "interest_1h": 0.000013721469345199668,
+      "index_price": 38298.68
+    },
+    {
+      "timestamp": 1643792400000,
+      "prev_index_price": 38298.68,
+      "interest_8h": -0.00012176261608764325,
+      "interest_1h": 0.00002682727716273544,
+      "index_price": 38469.31
+    },
+    {
+      "timestamp": 1643796000000,
+      "prev_index_price": 38469.31,
+      "interest_8h": -0.00014496996806742933,
+      "interest_1h": -0.00002357208489390494,
+      "index_price": 38554.57
+    },
+    {
+      "timestamp": 1643799600000,
+      "prev_index_price": 38554.57,
+      "interest_8h": -0.00013179953656393767,
+      "interest_1h": 0.000013845123214362496,
+      "index_price": 38594.34
+    },
+    {
+      "timestamp": 1643803200000,
+      "prev_index_price": 38594.34,
+      "interest_8h": 0.00008095445048820465,
+      "interest_1h": 0.00021132706363979342,
+      "index_price": 38511.89
+    },
+    {
+      "timestamp": 1643806800000,
+      "prev_index_price": 38511.89,
+      "interest_8h": 0.0002191626303171688,
+      "interest_1h": 0.000003323385735439804,
+      "index_price": 38750.27
+    },
+    {
+      "timestamp": 1643810400000,
+      "prev_index_price": 38750.27,
+      "interest_8h": 0.00023062740544431995,
+      "interest_1h": 0.000017680784384083283,
+      "index_price": 38376.11
+    },
+    {
+      "timestamp": 1643814000000,
+      "prev_index_price": 38376.11,
+      "interest_8h": 0.0002523645636767244,
+      "interest_1h": -0.000008966061127253167,
+      "index_price": 37703.73
+    },
+    {
+      "timestamp": 1643817600000,
+      "prev_index_price": 37703.73,
+      "interest_8h": 0.00024384617289195413,
+      "interest_1h": 0.0000051126201929044215,
+      "index_price": 37445.89
+    },
+    {
+      "timestamp": 1643821200000,
+      "prev_index_price": 37445.89,
+      "interest_8h": 0.0002181042074801753,
+      "interest_1h": 1.1528850719557617e-7,
+      "index_price": 37355.77
+    },
+    {
+      "timestamp": 1643824800000,
+      "prev_index_price": 37355.77,
+      "interest_8h": 0.0002816643215719141,
+      "interest_1h": 0.000038225682359594,
+      "index_price": 37485.46
+    },
+    {
+      "timestamp": 1643828400000,
+      "prev_index_price": 37485.46,
+      "interest_8h": 0.00026923975149080817,
+      "interest_1h": 0.0000011114135594513364,
+      "index_price": 37514.24
+    },
+    {
+      "timestamp": 1643832000000,
+      "prev_index_price": 37514.24,
+      "interest_8h": 0.0000319630701887287,
+      "interest_1h": -0.000025156877889194937,
+      "index_price": 37594.91
+    },
+    {
+      "timestamp": 1643835600000,
+      "prev_index_price": 37594.91,
+      "interest_8h": 0.000030848328623977206,
+      "interest_1h": 0.000001970410618977633,
+      "index_price": 37595.66
+    },
+    {
+      "timestamp": 1643839200000,
+      "prev_index_price": 37595.66,
+      "interest_8h": 0.000012648265011437398,
+      "interest_1h": -3.8376895278301733e-7,
+      "index_price": 36938.21
+    },
+    {
+      "timestamp": 1643842800000,
+      "prev_index_price": 36938.21,
+      "interest_8h": 0.000020509774552236903,
+      "interest_1h": -7.111140162415617e-7,
+      "index_price": 37035.85
+    },
+    {
+      "timestamp": 1643846400000,
+      "prev_index_price": 37035.85,
+      "interest_8h": 0.000012747443869801478,
+      "interest_1h": -0.0000025165539440041377,
+      "index_price": 36918.75
+    },
+    {
+      "timestamp": 1643850000000,
+      "prev_index_price": 36918.75,
+      "interest_8h": 0.000016071671169112826,
+      "interest_1h": 0.0000034293231860974193,
+      "index_price": 36908.3
+    },
+    {
+      "timestamp": 1643853600000,
+      "prev_index_price": 36908.3,
+      "interest_8h": -0.000022230924441400476,
+      "interest_1h": 0,
+      "index_price": 36878.66
+    },
+    {
+      "timestamp": 1643857200000,
+      "prev_index_price": 36878.66,
+      "interest_8h": -0.000023358422439739906,
+      "interest_1h": 0,
+      "index_price": 36983.67
+    },
+    {
+      "timestamp": 1643860800000,
+      "prev_index_price": 36983.67,
+      "interest_8h": 0.000001103737167222673,
+      "interest_1h": -6.853964247270094e-7,
+      "index_price": 36844.03
+    },
+    {
+      "timestamp": 1643864400000,
+      "prev_index_price": 36844.03,
+      "interest_8h": -8.666701895918676e-7,
+      "interest_1h": 0,
+      "index_price": 36933.65
+    },
+    {
+      "timestamp": 1643868000000,
+      "prev_index_price": 36933.65,
+      "interest_8h": -9.255945316665822e-7,
+      "interest_1h": -4.511669778519472e-7,
+      "index_price": 37022.07
+    },
+    {
+      "timestamp": 1643871600000,
+      "prev_index_price": 37022.07,
+      "interest_8h": -2.1513238631402928e-7,
+      "interest_1h": 0,
+      "index_price": 36962.55
+    },
+    {
+      "timestamp": 1643875200000,
+      "prev_index_price": 36962.55,
+      "interest_8h": 0.0000022941449199349196,
+      "interest_1h": 0,
+      "index_price": 37052.98
+    },
+    {
+      "timestamp": 1643878800000,
+      "prev_index_price": 37052.98,
+      "interest_8h": -0.00000180730877328347,
+      "interest_1h": -6.750878252580546e-7,
+      "index_price": 37098.24
+    },
+    {
+      "timestamp": 1643882400000,
+      "prev_index_price": 37098.24,
+      "interest_8h": -0.0000018074519447121212,
+      "interest_1h": -1.5409585324354326e-9,
+      "index_price": 36640.31
+    },
+    {
+      "timestamp": 1643886000000,
+      "prev_index_price": 36640.31,
+      "interest_8h": -0.0000019524047693116518,
+      "interest_1h": -1.3857055420303446e-7,
+      "index_price": 36400.76
+    },
+    {
+      "timestamp": 1643889600000,
+      "prev_index_price": 36400.76,
+      "interest_8h": -0.0000022244110690654855,
+      "interest_1h": -9.50615908901471e-7,
+      "index_price": 36796.82
+    },
+    {
+      "timestamp": 1643893200000,
+      "prev_index_price": 36796.82,
+      "interest_8h": 0.000006427998787545072,
+      "interest_1h": 0.000008625749167131086,
+      "index_price": 36700.96
+    },
+    {
+      "timestamp": 1643896800000,
+      "prev_index_price": 36700.96,
+      "interest_8h": 0.000015220038093305418,
+      "interest_1h": 0.000008252203672193751,
+      "index_price": 36599.58
+    },
+    {
+      "timestamp": 1643900400000,
+      "prev_index_price": 36599.58,
+      "interest_8h": 0.000046137483668940994,
+      "interest_1h": 0.000030638066947738295,
+      "index_price": 36530.5
+    },
+    {
+      "timestamp": 1643904000000,
+      "prev_index_price": 36530.5,
+      "interest_8h": 0.000050379239020036355,
+      "interest_1h": 0.0000040626503164083045,
+      "index_price": 36938.17
+    },
+    {
+      "timestamp": 1643907600000,
+      "prev_index_price": 36938.17,
+      "interest_8h": 0.000051100109077743584,
+      "interest_1h": 0,
+      "index_price": 36718.04
+    },
+    {
+      "timestamp": 1643911200000,
+      "prev_index_price": 36718.04,
+      "interest_8h": 0.00005107990435685908,
+      "interest_1h": 4.728800693483974e-7,
+      "index_price": 36853.21
+    },
+    {
+      "timestamp": 1643914800000,
+      "prev_index_price": 36853.21,
+      "interest_8h": 0.000051203112549152226,
+      "interest_1h": 4.165433296171808e-7,
+      "index_price": 36789.15
+    },
+    {
+      "timestamp": 1643918400000,
+      "prev_index_price": 36789.15,
+      "interest_8h": 0.000052677668247571235,
+      "interest_1h": -6.576387488062457e-10,
+      "index_price": 36570.36
+    },
+    {
+      "timestamp": 1643922000000,
+      "prev_index_price": 36570.36,
+      "interest_8h": 0.00004789942718797332,
+      "interest_1h": 0.0000039498319012426075,
+      "index_price": 36359.93
+    },
+    {
+      "timestamp": 1643925600000,
+      "prev_index_price": 36359.93,
+      "interest_8h": 6.330154648869734e-7,
+      "interest_1h": -0.00003865744714385729,
+      "index_price": 36970.31
+    },
+    {
+      "timestamp": 1643929200000,
+      "prev_index_price": 36970.31,
+      "interest_8h": -0.000027828583658309575,
+      "interest_1h": 0.000002157954314805575,
+      "index_price": 36960.1
+    },
+    {
+      "timestamp": 1643932800000,
+      "prev_index_price": 36960.1,
+      "interest_8h": -0.00003804200218852591,
+      "interest_1h": -0.000005811419679261143,
+      "index_price": 37323.6
+    },
+    {
+      "timestamp": 1643936400000,
+      "prev_index_price": 37323.6,
+      "interest_8h": -0.00002375097101927136,
+      "interest_1h": 0.000014296274116658856,
+      "index_price": 37210.3
+    },
+    {
+      "timestamp": 1643940000000,
+      "prev_index_price": 37210.3,
+      "interest_8h": 0.000011830473176032785,
+      "interest_1h": 0.00003649371269185065,
+      "index_price": 37200.84
+    },
+    {
+      "timestamp": 1643943600000,
+      "prev_index_price": 37200.84,
+      "interest_8h": -0.000018878006986699452,
+      "interest_1h": -0.000030610857331902865,
+      "index_price": 37360.34
+    },
+    {
+      "timestamp": 1643947200000,
+      "prev_index_price": 37360.34,
+      "interest_8h": -0.000015396115687866896,
+      "interest_1h": 0.000003441742783203464,
+      "index_price": 37338.19
+    },
+    {
+      "timestamp": 1643950800000,
+      "prev_index_price": 37338.19,
+      "interest_8h": -0.00001923462881206776,
+      "interest_1h": 0,
+      "index_price": 37327.3
+    },
+    {
+      "timestamp": 1643954400000,
+      "prev_index_price": 37327.3,
+      "interest_8h": 0.000020378686530821396,
+      "interest_1h": 6.358957859612394e-7,
+      "index_price": 37573.34
+    },
+    {
+      "timestamp": 1643958000000,
+      "prev_index_price": 37573.34,
+      "interest_8h": 0.000012790717926104814,
+      "interest_1h": -0.0000055149933309669295,
+      "index_price": 38017.34
+    },
+    {
+      "timestamp": 1643961600000,
+      "prev_index_price": 38017.34,
+      "interest_8h": 0.000020763025624233842,
+      "interest_1h": 0.0000020147015473647525,
+      "index_price": 37888.58
+    },
+    {
+      "timestamp": 1643965200000,
+      "prev_index_price": 37888.58,
+      "interest_8h": 0.000006447120953560683,
+      "interest_1h": 0,
+      "index_price": 37980.39
+    },
+    {
+      "timestamp": 1643968800000,
+      "prev_index_price": 37980.39,
+      "interest_8h": -0.000021581003852638876,
+      "interest_1h": 0.00000863518689850807,
+      "index_price": 38047.35
+    },
+    {
+      "timestamp": 1643972400000,
+      "prev_index_price": 38047.35,
+      "interest_8h": 0.000008636194358723302,
+      "interest_1h": -3.9757717369543666e-7,
+      "index_price": 37906.83
+    },
+    {
+      "timestamp": 1643976000000,
+      "prev_index_price": 37906.83,
+      "interest_8h": 0.000004284336130165284,
+      "interest_1h": -9.634401757497596e-7,
+      "index_price": 37829.89
+    },
+    {
+      "timestamp": 1643979600000,
+      "prev_index_price": 37829.89,
+      "interest_8h": 0.0000406251649056056,
+      "interest_1h": 0.000036831402911925666,
+      "index_price": 37978.15
+    },
+    {
+      "timestamp": 1643983200000,
+      "prev_index_price": 37978.15,
+      "interest_8h": 0.000032655583612056134,
+      "interest_1h": -0.000007679123630964365,
+      "index_price": 37445.27
+    },
+    {
+      "timestamp": 1643986800000,
+      "prev_index_price": 37445.27,
+      "interest_8h": 0.000028884144820852786,
+      "interest_1h": -0.000009590963686102515,
+      "index_price": 37965.27
+    },
+    {
+      "timestamp": 1643990400000,
+      "prev_index_price": 37965.27,
+      "interest_8h": 0.00003801027861067345,
+      "interest_1h": 0.000011254573081584692,
+      "index_price": 39511.46
+    },
+    {
+      "timestamp": 1643994000000,
+      "prev_index_price": 39511.46,
+      "interest_8h": 0.00003456748719550728,
+      "interest_1h": -0.000003677395470656866,
+      "index_price": 40292.25
+    },
+    {
+      "timestamp": 1643997600000,
+      "prev_index_price": 40292.25,
+      "interest_8h": 0.00007054504540790536,
+      "interest_1h": 0.0000471986473217173,
+      "index_price": 40554.4
+    },
+    {
+      "timestamp": 1644001200000,
+      "prev_index_price": 40554.4,
+      "interest_8h": 0.00007492227109332684,
+      "interest_1h": 0.000004535860088460813,
+      "index_price": 40498.49
+    },
+    {
+      "timestamp": 1644004800000,
+      "prev_index_price": 40498.49,
+      "interest_8h": 0.00008158102776236938,
+      "interest_1h": 0.0000062619676750191515,
+      "index_price": 40757.93
+    },
+    {
+      "timestamp": 1644008400000,
+      "prev_index_price": 40757.93,
+      "interest_8h": 0.0000409833158007944,
+      "interest_1h": -0.000004230197036210512,
+      "index_price": 40602.75
+    },
+    {
+      "timestamp": 1644012000000,
+      "prev_index_price": 40602.75,
+      "interest_8h": 0.00005779870709745145,
+      "interest_1h": 0.00001064702946393588,
+      "index_price": 40648.09
+    },
+    {
+      "timestamp": 1644015600000,
+      "prev_index_price": 40648.09,
+      "interest_8h": 0.00006832550670642081,
+      "interest_1h": 0,
+      "index_price": 40673.36
+    },
+    {
+      "timestamp": 1644019200000,
+      "prev_index_price": 40673.36,
+      "interest_8h": 0.00005799076697987816,
+      "interest_1h": -0.0000014254503159415625,
+      "index_price": 41598.38
+    },
+    {
+      "timestamp": 1644022800000,
+      "prev_index_price": 41598.38,
+      "interest_8h": 0.00004245479039924621,
+      "interest_1h": -0.00002111510939050676,
+      "index_price": 41522.16
+    },
+    {
+      "timestamp": 1644026400000,
+      "prev_index_price": 41522.16,
+      "interest_8h": -0.000014723825212124505,
+      "interest_1h": -0.000010186521743860418,
+      "index_price": 41310.45
+    },
+    {
+      "timestamp": 1644030000000,
+      "prev_index_price": 41310.45,
+      "interest_8h": -0.00003819007933412992,
+      "interest_1h": -0.000019337016763037,
+      "index_price": 41396.91
+    },
+    {
+      "timestamp": 1644033600000,
+      "prev_index_price": 41396.91,
+      "interest_8h": -0.000057037274992686116,
+      "interest_1h": -0.00001249330058214713,
+      "index_price": 41480.01
+    },
+    {
+      "timestamp": 1644037200000,
+      "prev_index_price": 41480.01,
+      "interest_8h": -0.00006974031777114682,
+      "interest_1h": -0.000017504497535098905,
+      "index_price": 41489.16
+    },
+    {
+      "timestamp": 1644040800000,
+      "prev_index_price": 41489.16,
+      "interest_8h": -0.00009246478354458187,
+      "interest_1h": -0.000012235712804329114,
+      "index_price": 41555.59
+    },
+    {
+      "timestamp": 1644044400000,
+      "prev_index_price": 41555.59,
+      "interest_8h": -0.00010502612575450066,
+      "interest_1h": -0.000012775075272329338,
+      "index_price": 41530.56
+    },
+    {
+      "timestamp": 1644048000000,
+      "prev_index_price": 41530.56,
+      "interest_8h": -0.00011330491934427967,
+      "interest_1h": -0.0000073361100081961625,
+      "index_price": 41422.22
+    },
+    {
+      "timestamp": 1644051600000,
+      "prev_index_price": 41422.22,
+      "interest_8h": -0.00009259197305153005,
+      "interest_1h": -5.758005956709125e-7,
+      "index_price": 41470.87
+    },
+    {
+      "timestamp": 1644055200000,
+      "prev_index_price": 41470.87,
+      "interest_8h": -0.00007872455685046799,
+      "interest_1h": 0.0000032777163800369265,
+      "index_price": 41581.35
+    },
+    {
+      "timestamp": 1644058800000,
+      "prev_index_price": 41581.35,
+      "interest_8h": -0.00006002689690711695,
+      "interest_1h": -5.155735500093065e-7,
+      "index_price": 41601.02
+    },
+    {
+      "timestamp": 1644062400000,
+      "prev_index_price": 41601.02,
+      "interest_8h": -0.000047686737288265105,
+      "interest_1h": -5.789059595182917e-8,
+      "index_price": 41470.95
+    },
+    {
+      "timestamp": 1644066000000,
+      "prev_index_price": 41470.95,
+      "interest_8h": -0.000030285192274795703,
+      "interest_1h": -9.625241155061029e-8,
+      "index_price": 41416.97
+    },
+    {
+      "timestamp": 1644069600000,
+      "prev_index_price": 41416.97,
+      "interest_8h": -0.0000185968324230673,
+      "interest_1h": -5.167237469133624e-7,
+      "index_price": 41547.25
+    },
+    {
+      "timestamp": 1644073200000,
+      "prev_index_price": 41547.25,
+      "interest_8h": -0.000006926489864537434,
+      "interest_1h": -0.0000011086846789423097,
+      "index_price": 41496.03
+    },
+    {
+      "timestamp": 1644076800000,
+      "prev_index_price": 41496.03,
+      "interest_8h": -0.0000021544355860034303,
+      "interest_1h": -0.0000025675541323240903,
+      "index_price": 41807.63
+    },
+    {
+      "timestamp": 1644080400000,
+      "prev_index_price": 41807.63,
+      "interest_8h": 0.000005242155621637576,
+      "interest_1h": 0.000006878047298994743,
+      "index_price": 41317.17
+    },
+    {
+      "timestamp": 1644084000000,
+      "prev_index_price": 41317.17,
+      "interest_8h": -0.0000012682309176787087,
+      "interest_1h": -0.0000032174860092523117,
+      "index_price": 41611.54
+    },
+    {
+      "timestamp": 1644087600000,
+      "prev_index_price": 41611.54,
+      "interest_8h": -9.743982062195806e-7,
+      "interest_1h": -2.2135248251897233e-7,
+      "index_price": 41701.08
+    },
+    {
+      "timestamp": 1644091200000,
+      "prev_index_price": 41701.08,
+      "interest_8h": 0.000012684200639438871,
+      "interest_1h": 0.00001367336656396567,
+      "index_price": 41583.04
+    },
+    {
+      "timestamp": 1644094800000,
+      "prev_index_price": 41583.04,
+      "interest_8h": 0.000012632742632547007,
+      "interest_1h": -1.3160051816164476e-7,
+      "index_price": 41685.51
+    },
+    {
+      "timestamp": 1644098400000,
+      "prev_index_price": 41685.51,
+      "interest_8h": 0.000006496287968229435,
+      "interest_1h": -0.000006716818927333259,
+      "index_price": 41681.1
+    },
+    {
+      "timestamp": 1644102000000,
+      "prev_index_price": 41681.1,
+      "interest_8h": -5.51427537824099e-7,
+      "interest_1h": -0.00000818335995370391,
+      "index_price": 41610.74
+    },
+    {
+      "timestamp": 1644105600000,
+      "prev_index_price": 41610.74,
+      "interest_8h": -9.601390314910424e-8,
+      "interest_1h": -0.0000021172616285282442,
+      "index_price": 41411.23
+    },
+    {
+      "timestamp": 1644109200000,
+      "prev_index_price": 41411.23,
+      "interest_8h": -0.000007091803107470777,
+      "interest_1h": -2.0001136691544386e-7,
+      "index_price": 41514.16
+    },
+    {
+      "timestamp": 1644112800000,
+      "prev_index_price": 41514.16,
+      "interest_8h": -0.000009969967465640765,
+      "interest_1h": -0.000006054023596243196,
+      "index_price": 41634.72
+    },
+    {
+      "timestamp": 1644116400000,
+      "prev_index_price": 41634.72,
+      "interest_8h": -0.00003690572883693021,
+      "interest_1h": -0.000027092776881895722,
+      "index_price": 41553.95
+    },
+    {
+      "timestamp": 1644120000000,
+      "prev_index_price": 41553.95,
+      "interest_8h": -0.00005457135530758718,
+      "interest_1h": -0.0000041325372152571,
+      "index_price": 41478.45
+    },
+    {
+      "timestamp": 1644123600000,
+      "prev_index_price": 41478.45,
+      "interest_8h": -0.00005504907769876197,
+      "interest_1h": -4.7281079438166455e-7,
+      "index_price": 41565.1
+    },
+    {
+      "timestamp": 1644127200000,
+      "prev_index_price": 41565.1,
+      "interest_8h": -0.000048327145597542086,
+      "interest_1h": 0,
+      "index_price": 41608.16
+    },
+    {
+      "timestamp": 1644130800000,
+      "prev_index_price": 41608.16,
+      "interest_8h": -0.000040076462835651004,
+      "interest_1h": -4.42092818346618e-10,
+      "index_price": 41473.8
+    },
+    {
+      "timestamp": 1644134400000,
+      "prev_index_price": 41473.8,
+      "interest_8h": -0.000037777199151095084,
+      "interest_1h": 0,
+      "index_price": 41650.57
+    },
+    {
+      "timestamp": 1644138000000,
+      "prev_index_price": 41650.57,
+      "interest_8h": -0.00003767003061772347,
+      "interest_1h": 0,
+      "index_price": 41671.24
+    },
+    {
+      "timestamp": 1644141600000,
+      "prev_index_price": 41671.24,
+      "interest_8h": -0.000031735900044461554,
+      "interest_1h": -2.7543031741616385e-8,
+      "index_price": 41672.21
+    },
+    {
+      "timestamp": 1644145200000,
+      "prev_index_price": 41672.21,
+      "interest_8h": -0.000004781403235588283,
+      "interest_1h": -1.4770675209236552e-7,
+      "index_price": 41601.4
+    },
+    {
+      "timestamp": 1644148800000,
+      "prev_index_price": 41601.4,
+      "interest_8h": -6.528540723016939e-7,
+      "interest_1h": -5.182302381648325e-9,
+      "index_price": 41536.1
+    },
+    {
+      "timestamp": 1644152400000,
+      "prev_index_price": 41536.1,
+      "interest_8h": -1.804193949164883e-7,
+      "interest_1h": 0,
+      "index_price": 41634.36
+    },
+    {
+      "timestamp": 1644156000000,
+      "prev_index_price": 41634.36,
+      "interest_8h": -2.592752904611776e-7,
+      "interest_1h": -7.87185239342766e-8,
+      "index_price": 41723.62
+    },
+    {
+      "timestamp": 1644159600000,
+      "prev_index_price": 41723.62,
+      "interest_8h": -0.0000013207020143528733,
+      "interest_1h": -0.000001069105901320444,
+      "index_price": 41320.59
+    },
+    {
+      "timestamp": 1644163200000,
+      "prev_index_price": 41320.59,
+      "interest_8h": -6.88456023031483e-7,
+      "interest_1h": 6.328214822988303e-7,
+      "index_price": 41544.36
+    }
+  ],
+  "usIn": 1644227308542147,
+  "usOut": 1644227308654507,
+  "usDiff": 112360,
+  "testnet": true
+}
